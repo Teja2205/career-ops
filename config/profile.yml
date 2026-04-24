@@ -64,3 +64,48 @@ location:
   state: "California"
   timezone: "PDT"
   visa_status: "sponsorship needed"
+  preferred_regions:
+    - United States
+    - Remote
+    - US-Remote
+    - Remote - US
+  exclude_regions:
+    - Germany
+    - United Kingdom
+    - London
+    - India
+    - Japan
+    - Australia
+    - France
+    - Singapore
+    - Canada
+    - Ireland
+    - Netherlands
+    - Sweden
+    - Denmark
+    - Poland
+    - Bulgaria
+    - Chile
+    - Dubai
+    - Middle East
+    - South Korea
+
+exclude_keywords:
+  - Junior
+  - Intern
+  - QA
+  - Salesforce
+  - WordPress
+  - PHP
+  - Account Executive
+  - Product Manager
+  - Freelance
+  - Marketing
+  - AML Investigator
+  - Training Manager
+  - Solutions Architect
+  - Customer Support
+  - Sales
+  - Demand Generation
+  - Maintenance Technician
+  - Maintenance Manager
