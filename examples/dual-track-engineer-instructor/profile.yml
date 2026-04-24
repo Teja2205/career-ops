@@ -1,115 +1,61 @@
-# Career-Ops Profile -- Dual-Track Example (Engineer + Instructor)
-#
-# Fictional persona. Demonstrates how to configure a profile when you are
-# optimizing for TWO archetypes at the same time -- e.g. Senior AI Engineer
-# AND Senior Technical Instructor. See README.md in this folder for the
-# rationale and the interview-objection playbook.
-#
-# Copy this file to config/profile.yml and edit before using.
-
+# Career-Ops Profile Configuration
 candidate:
-  full_name: "Sam Rivera"
-  email: "sam@example.com"
-  phone: "+00-000-0000000"          # placeholder, replace with your real number
-  location: "Berlin, Germany"
-  linkedin: "linkedin.com/in/sam-rivera-example"
-  portfolio_url: "https://sam-rivera.example.dev"
-  github: "github.com/sam-rivera-example"
-  twitter: "https://x.com/sam_rivera_example"
+  full_name: "Teja Guduguntla"
+  email: "gteja9639@gmail.com"
+  phone: "+1-502-431-6633"
+  location: "Salem, Oregon, US"
+  linkedin: "www.linkedin.com/in/tejag2"
+  portfolio_url: "https://licensebot-wocm.onrender.com/"
+  github: "https://github.com/Teja2205"
 
 target_roles:
-  # North Star -- TWO primary tracks, not one.
   primary:
     - "Senior AI Engineer"
-    - "Staff AI Engineer"
-    - "Senior Technical Instructor (AI/ML)"
-    - "Lead Curriculum Engineer"
-  # Archetypes -- note: TWO entries with fit: primary.
-  # The evaluator should pick whichever is closer to the JD at scoring time.
+    - "ML Engineer"
+    - "Gen AI Engineer"
+    - "Senior Python Backend Engineer"
+    - "AI Full Stack Engineer"
+    - "Platform Engineer"
   archetypes:
-    - name: "Senior AI Engineer"
-      level: "Senior/Staff"
+    - name: "AI/ML Engineer"
+      level: "Mid-level"
       fit: "primary"
-      track: "engineering"
-      sell_when: "JD emphasizes shipping production AI, agent infra, LangChain/LangGraph, eval systems, ownership of an AI subsystem"
-    - name: "Senior Technical Instructor (AI/ML)"
-      level: "Senior/Lead"
-      fit: "primary"
-      track: "teaching"
-      sell_when: "JD emphasizes curriculum, cohort delivery, bootcamp/university lectureship, DevRel education, internal enablement, instructor-led training"
-    - name: "AI DevRel Engineer"
-      level: "Senior"
+    - name: "AI Full Stack Developer"
+      level: "Mid-level"
       fit: "secondary"
-      track: "hybrid"
-      sell_when: "JD wants someone who can ship demos, write docs, AND speak at events / run workshops -- the natural dual-track landing zone"
-    - name: "Head of AI Education / Curriculum Lead"
-      level: "Lead/Manager"
-      fit: "secondary"
-      track: "teaching"
-      sell_when: "JD wants ownership of an entire curriculum, hiring + managing instructors, working with industry partners"
-    - name: "Forward Deployed AI Engineer"
-      level: "Senior"
+    - name: "Python Full Stack Developer"
+      level: "Mid-Senior"
       fit: "adjacent"
-      track: "engineering"
-      sell_when: "JD wants client-facing technical work, fast prototyping, customer enablement -- teaching skills become a differentiator here"
-
-narrative:
-  # One-line headline. Names BOTH tracks. The "rare combination" is the value.
-  headline: "Senior AI engineer who also runs the curriculum -- 60K LOC in production, 5,200+ teaching hours, 80+ careers launched"
-  # Exit story bridges both tracks into one coherent reason for the move.
-  exit_story: "Spent 4 years running an AI subsystem at a knowledge-graph SaaS in parallel with leading the AI Engineering track at a Berlin bootcamp. Both missions are complete -- now optimizing for a single role that uses both sides, or for one side at full intensity if the team is right."
-  # Superpowers -- mix of engineering AND teaching to reflect the dual track.
+  narrative:
+    headline: "AI-driven Full Stack Engineer transforming enterprise systems into intelligent platforms."
+    exit_story: "5+ years of experience bridging the gap between messy legacy data and RAG-powered knowledge systems, reducing operational friction in healthcare, fintech, and enterprise software."
   superpowers:
-    - "Ship production AI systems end-to-end (LangChain, LangGraph, Neo4j, Redis)"
-    - "Design curriculum that produces hireable engineers (92% completion, 80+ placed)"
-    - "Explain hard technical material in plain language -- in two languages"
-    - "Run incident reviews and code reviews at scale without burning out the team"
-    - "Bridge engineering and education -- internal docs that people actually read"
-  # Proof points -- mix engineering AND teaching wins, marked by track.
+    - "Agent-augmented application development (React/Node.js/Python)"
+    - "End-to-end RAG architecture and LLM integration"
+    - "Intelligent ETL orchestration and data quality automation"
+    - "Human-in-the-loop AI system design and drift monitoring"
   proof_points:
-    - name: "Knowledge-Graph SaaS AI subsystem"
-      url: "https://sam-rivera.example.dev/case-study-knowledge-graph"
-      hero_metric: "60K LOC owned, 4M+ agent events/month, 38% latency cut"
-      track: "engineering"
-    - name: "agent-skills-kit"
-      url: "https://github.com/sam-rivera-example/agent-skills-kit"
-      hero_metric: "2,400+ GitHub stars, 11 contributors"
-      track: "engineering"
-    - name: "AI Engineering 4-Week Intensive (curriculum)"
-      url: "https://sam-rivera.example.dev/curriculum-ai-eng"
-      hero_metric: "6 cohorts, NPS 71, 92% completion, 80+ careers launched"
-      track: "teaching"
-    - name: "pplx-embed-local-runner"
-      url: "https://github.com/sam-rivera-example/pplx-embed-local-runner"
-      hero_metric: "610 stars, used in 3 lab exercises"
-      track: "hybrid"
-  # Optional dashboard / live demo
-  # dashboard:
-  #   url: "https://sam-rivera.example.dev/demo"
-  #   password: "demo-2026"
+    - name: "LicenseBot (Conversational AI Assistant)"
+      url: "https://licensebot-wocm.onrender.com/"
+      hero_metric: "Reduced ticket escalations by 35%"
+    - name: "ClaimSense (AI Claims Triage)"
+      url: "Not Provided"
+      hero_metric: "Reduced manual review time by 45%"
+    - name: "QueryMind (RAG Knowledge System)"
+      url: "Not Provided"
+      hero_metric: "Reduced time-to-answer from hours to seconds"
+  dashboard:
+    url: "https://licensebot-wocm.onrender.com/"
 
 compensation:
-  # Default range = engineering range (typically higher).
-  target_range: "EUR 95K-130K"
-  currency: "EUR"
-  minimum: "EUR 80K"
-  location_flexibility: "Remote within EU; up to 1 week/month on-site in Berlin or any EU city"
-
-  # alternate_ranges -- non-standard but the dual-track pattern needs it.
-  # The evaluator should pick the range matching the detected archetype track.
-  alternate_ranges:
-    - track: "teaching"
-      target_range: "EUR 70K-95K"
-      minimum: "EUR 60K"
-      note: "Teaching roles pay less than engineering. Walk-away is lower because the work is intrinsically rewarding, but not unlimited."
-    - track: "hybrid"
-      target_range: "EUR 90K-120K"
-      minimum: "EUR 75K"
-      note: "DevRel and Forward-Deployed roles -- price between the two tracks."
+  target_range: "$150K-200K"
+  currency: "USD"
+  minimum: "$120K"
+  location_flexibility: "Remote preferred, 1 week/month on-site possible"
 
 location:
-  country: "Germany"
-  city: "Berlin"
-  timezone: "CET/CEST"
-  visa_status: "EU citizen, no sponsorship needed"
-  onsite_availability: "1 week/month in any EU city; full remote preferred"
+  country: "United States"
+  city: "San Jose"
+  state: "California"
+  timezone: "PDT"
+  visa_status: "sponsorship needed"
