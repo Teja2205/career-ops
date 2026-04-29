@@ -28,11 +28,13 @@ RETRY_FAILED=false
 START_FROM=0
 MAX_RETRIES=2
 MIN_SCORE=0
+MODEL=""
 
 usage() {
   cat <<'USAGE'
 career-ops batch runner — process job offers in batch via claude -p workers
-Uses your default Claude model (Claude Max subscription).
+Uses your default Claude model (Claude Max subscription), or a specific model
+via --model when ANTHROPIC_API_KEY is set (cheaper for high-volume use).
 
 Usage: batch-runner.sh [OPTIONS]
 
@@ -43,7 +45,14 @@ Options:
   --start-from N       Start from offer ID N (skip earlier IDs)
   --max-retries N      Max retry attempts per offer (default: 2)
   --min-score N        Skip PDF/tracker for offers scoring below N (default: 0 = off)
+  --model MODEL_ID     Use a specific Claude model (requires ANTHROPIC_API_KEY env var)
+                       Cheap options: claude-haiku-4-5-20251001 (~$2/100 offers)
+                                      claude-sonnet-4-6         (~$7/100 offers)
   -h, --help           Show this help
+
+API key usage (keep Claude Pro for interactive, pay-per-token for batch):
+  export ANTHROPIC_API_KEY=sk-ant-...
+  ./batch-runner.sh --model claude-haiku-4-5-20251001
 
 Files:
   batch-input.tsv      Input offers (id, url, source, notes)
@@ -76,6 +85,7 @@ while [[ $# -gt 0 ]]; do
     --start-from) START_FROM="$2"; shift 2 ;;
     --max-retries) MAX_RETRIES="$2"; shift 2 ;;
     --min-score) MIN_SCORE="$2"; shift 2 ;;
+    --model) MODEL="$2"; shift 2 ;;
     -h|--help) usage; exit 0 ;;
     *) echo "Unknown option: $1"; usage; exit 1 ;;
   esac
@@ -350,10 +360,22 @@ process_offer() {
     -e "s|{{ID}}|${esc_id}|g" \
     "$PROMPT_FILE" > "$resolved_prompt"
 
-  # Launch claude -p worker (uses default model from Claude Max subscription)
+  # Launch claude -p worker
+  # With --model: uses ANTHROPIC_API_KEY (pay-per-token, cheaper for high volume)
+  # Without --model: uses Claude Max subscription (default)
   local exit_code=0
+  local model_args=()
+  if [[ -n "$MODEL" ]]; then
+    if [[ -z "${ANTHROPIC_API_KEY:-}" ]]; then
+      echo "ERROR: --model requires ANTHROPIC_API_KEY to be set"
+      echo "  export ANTHROPIC_API_KEY=sk-ant-..."
+      exit 1
+    fi
+    model_args=(--model "$MODEL")
+  fi
   claude -p \
     --dangerously-skip-permissions \
+    "${model_args[@]}" \
     --append-system-prompt-file "$resolved_prompt" \
     "$prompt" \
     > "$log_file" 2>&1 || exit_code=$?
@@ -461,6 +483,11 @@ main() {
   fi
 
   echo "=== career-ops batch runner ==="
+  if [[ -n "$MODEL" ]]; then
+    echo "Model: $MODEL (API key)"
+  else
+    echo "Model: default (Claude Max subscription)"
+  fi
   echo "Parallel: $PARALLEL | Max retries: $MAX_RETRIES"
   echo "Input: $total_input offers"
   echo ""
