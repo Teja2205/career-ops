@@ -4,6 +4,11 @@ set -euo pipefail
 # career-ops batch runner — standalone orchestrator for claude -p workers
 # Reads batch-input.tsv, delegates each offer to a claude -p worker,
 # tracks state in batch-state.tsv for resumability.
+#
+# NOTE: This script is Claude Code-specific. It uses claude -p with
+# --dangerously-skip-permissions and --append-system-prompt-file flags
+# that are not available in other CLIs. Multi-CLI support is out of scope
+# for now — contributions welcome.
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -28,13 +33,12 @@ RETRY_FAILED=false
 START_FROM=0
 MAX_RETRIES=2
 MIN_SCORE=0
-MODEL=""
+MODEL=""  # empty = let claude -p use the Claude Max default
 
 usage() {
   cat <<'USAGE'
 career-ops batch runner — process job offers in batch via claude -p workers
-Uses your default Claude model (Claude Max subscription), or a specific model
-via --model when ANTHROPIC_API_KEY is set (cheaper for high-volume use).
+Uses your default Claude model (Claude Max subscription).
 
 Usage: batch-runner.sh [OPTIONS]
 
@@ -45,14 +49,10 @@ Options:
   --start-from N       Start from offer ID N (skip earlier IDs)
   --max-retries N      Max retry attempts per offer (default: 2)
   --min-score N        Skip PDF/tracker for offers scoring below N (default: 0 = off)
-  --model MODEL_ID     Use a specific Claude model (requires ANTHROPIC_API_KEY env var)
-                       Cheap options: claude-haiku-4-5-20251001 (~$2/100 offers)
-                                      claude-sonnet-4-6         (~$7/100 offers)
+  --model NAME         Claude model passed to `claude -p --model` (default:
+                       unset = Claude Max default). Use a cheaper model for
+                       large batches, e.g. `--model claude-sonnet-4-6`.
   -h, --help           Show this help
-
-API key usage (keep Claude Pro for interactive, pay-per-token for batch):
-  export ANTHROPIC_API_KEY=sk-ant-...
-  ./batch-runner.sh --model claude-haiku-4-5-20251001
 
 Files:
   batch-input.tsv      Input offers (id, url, source, notes)
@@ -360,25 +360,17 @@ process_offer() {
     -e "s|{{ID}}|${esc_id}|g" \
     "$PROMPT_FILE" > "$resolved_prompt"
 
-  # Launch claude -p worker
-  # With --model: uses ANTHROPIC_API_KEY (pay-per-token, cheaper for high volume)
-  # Without --model: uses Claude Max subscription (default)
-  local exit_code=0
-  local model_args=()
+  # Launch claude -p worker.
+  # Model defaults to the Claude Max subscription default unless --model was
+  # passed. Building the command in an array keeps quoting safe regardless.
+  local -a claude_args=(-p --dangerously-skip-permissions)
   if [[ -n "$MODEL" ]]; then
-    if [[ -z "${ANTHROPIC_API_KEY:-}" ]]; then
-      echo "ERROR: --model requires ANTHROPIC_API_KEY to be set"
-      echo "  export ANTHROPIC_API_KEY=sk-ant-..."
-      exit 1
-    fi
-    model_args=(--model "$MODEL")
+    claude_args+=(--model "$MODEL")
   fi
-  claude -p \
-    --dangerously-skip-permissions \
-    "${model_args[@]}" \
-    --append-system-prompt-file "$resolved_prompt" \
-    "$prompt" \
-    > "$log_file" 2>&1 || exit_code=$?
+  claude_args+=(--append-system-prompt-file "$resolved_prompt" "$prompt")
+
+  local exit_code=0
+  claude "${claude_args[@]}" > "$log_file" 2>&1 || exit_code=$?
 
   # Cleanup resolved prompt
   rm -f "$resolved_prompt"
@@ -483,11 +475,6 @@ main() {
   fi
 
   echo "=== career-ops batch runner ==="
-  if [[ -n "$MODEL" ]]; then
-    echo "Model: $MODEL (API key)"
-  else
-    echo "Model: default (Claude Max subscription)"
-  fi
   echo "Parallel: $PARALLEL | Max retries: $MAX_RETRIES"
   echo "Input: $total_input offers"
   echo ""
