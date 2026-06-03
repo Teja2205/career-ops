@@ -1,4 +1,7 @@
 # Career-Ops Profile Configuration
+# Copy this file to config/profile.yml and fill in your details.
+# This is the single source of truth for your personal data across all modes.
+
 candidate:
   full_name: "Teja Guduguntla"
   email: "gteja9639@gmail.com"
@@ -39,10 +42,10 @@ target_roles:
       url: "https://licensebot-wocm.onrender.com/"
       hero_metric: "Reduced ticket escalations by 35%"
     - name: "ClaimSense (AI Claims Triage)"
-      url: "Not Provided"
+      url: ""
       hero_metric: "Reduced manual review time by 45%"
     - name: "QueryMind (RAG Knowledge System)"
-      url: "Not Provided"
+      url: ""
       hero_metric: "Reduced time-to-answer from hours to seconds"
   dashboard:
     url: "https://licensebot-wocm.onrender.com/"
@@ -51,7 +54,7 @@ compensation:
   target_range: "$150K-200K"
   currency: "USD"
   minimum: "$120K"
-  location_flexibility: "Remote preferred, 1 week/month on-site possible"
+  location_flexibility: "Remote , onsite, hybrid preferred"
 
 location:
   country: "United States"
@@ -59,3 +62,47 @@ location:
   state: "California"
   timezone: "PDT"
   visa_status: "sponsorship needed"
+  preferred_regions:
+    - "United States"
+    - "Remote"
+    - "US-Remote"
+    - "Remote - US"
+  exclude_regions:
+    - "Germany"
+    - "United Kingdom"
+    - "London"
+    - "India"
+    - "Japan"
+    - "Australia"
+    - "France"
+    - "Middle East"
+    - "Dubai"
+    - "South Korea"
+    - "Canada"
+    - "Chile"
+    - "Bulgaria"
+    - "Poland"
+    - "Netherlands"
+    - "Denmark"
+    - "Sweden"
+    - "Ireland"
+
+exclude_keywords:
+  - "Junior"
+  - "Intern"
+  - "QA"
+  - "Salesforce"
+  - "WordPress"
+  - "PHP"
+  - "Account Executive"
+  - "Product Manager"
+  - "Maintenance Technician"
+  - "Maintenance Manager"
+  - "Freelance"
+  - "Marketing"
+  - "AML Investigator"
+  - "Training Manager"
+  - "Solutions Architect"
+  - "Customer Support"
+  - "Sales"
+  - "Demand Generation"

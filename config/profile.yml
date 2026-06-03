@@ -14,49 +14,54 @@ candidate:
 target_roles:
   # Your North Star roles - what you're optimizing for
   primary:
-    - "Senior Software Engineer"
-    - "Backend Engineer"
-    - "AI/ML Engineer"
+    - "Senior AI Engineer"
+    - "ML Engineer"
+    - "Gen AI Engineer"
+    - "Senior Python Backend Engineer"
+    - "AI Full Stack Engineer"
+    - "Platform Engineer"
   # Archetypes help the evaluation system score fit
   archetypes:
-    - name: "Backend Engineer"
-      level: "Senior"
-      fit: "primary"       # primary = dream role, secondary = good fit, adjacent = stretch
     - name: "AI/ML Engineer"
-      level: "Mid-Senior"
+      level: "Mid-level"
       fit: "primary"
-    - name: "Software Engineer"
-      level: "Senior"
+    - name: "AI Full Stack Developer"
+      level: "Mid-level"
       fit: "secondary"
-    - name: "Solutions Architect"
+    - name: "Python Full Stack Developer"
       level: "Mid-Senior"
       fit: "adjacent"
 
 narrative:
   # Your professional headline (1 line)
-  headline: "Backend Engineer with Finance domain expertise, transitioning into AI/ML Engineering"
+  headline: "AI-driven Full Stack Engineer transforming enterprise systems into intelligent platforms."
   # Your exit story - what makes you unique
-  exit_story: "5+ years building robust backend systems in Java/Groovy for fixed income finance; now applying ML and AI engineering skills to build intelligent, scalable systems."
+  exit_story: "5+ years of experience bridging the gap between messy legacy data and RAG-powered knowledge systems, reducing operational friction in healthcare, fintech, and enterprise software."
   # Your top 3-5 superpowers
   superpowers:
-    - "Java/Groovy backend development with finance domain depth"
-    - "Building and deploying RESTful APIs at scale"
-    - "Rapid prototyping with AI tools (Claude, LLMs)"
-    - "ATS-optimized resume and job application strategy"
+    - "Agent-augmented application development (React/Node.js/Python)"
+    - "End-to-end RAG architecture and LLM integration"
+    - "Intelligent ETL orchestration and data quality automation"
+    - "Human-in-the-loop AI system design and drift monitoring"
   # Proof points - projects, articles, case studies with measurable impact
   proof_points:
-    - name: "LicenseBot"
+    - name: "LicenseBot (Conversational AI Assistant)"
       url: "https://licensebot-wocm.onrender.com/"
-      hero_metric: "AI-powered license compliance tool deployed to production"
-    - name: "Career-Ops"
-      url: "https://github.com/Teja2205/career-ops"
-      hero_metric: "AI job search automation system with 14 skill modes"
+      hero_metric: "Reduced ticket escalations by 35%"
+    - name: "ClaimSense (AI Claims Triage)"
+      url: ""
+      hero_metric: "Reduced manual review time by 45%"
+    - name: "QueryMind (RAG Knowledge System)"
+      url: ""
+      hero_metric: "Reduced time-to-answer from hours to seconds"
+  dashboard:
+    url: "https://licensebot-wocm.onrender.com/"
 
 compensation:
-  target_range: "$120K-160K"    # Your target total comp
+  target_range: "$150K-200K"    # Your target total comp
   currency: "USD"
-  minimum: "$100K"               # Walk-away number
-  location_flexibility: "Remote preferred, open to hybrid"
+  minimum: "$120K"               # Walk-away number
+  location_flexibility: "Remote, hybrid, onsite"
 
 location:
   country: "United States"
@@ -65,47 +70,47 @@ location:
   timezone: "PDT"
   visa_status: "sponsorship needed"
   preferred_regions:
-    - United States
-    - Remote
-    - US-Remote
-    - Remote - US
+    - "United States"
+    - "Remote"
+    - "US-Remote"
+    - "Remote - US"
   exclude_regions:
-    - Germany
-    - United Kingdom
-    - London
-    - India
-    - Japan
-    - Australia
-    - France
-    - Singapore
-    - Canada
-    - Ireland
-    - Netherlands
-    - Sweden
-    - Denmark
-    - Poland
-    - Bulgaria
-    - Chile
-    - Dubai
-    - Middle East
-    - South Korea
+    - "Germany"
+    - "United Kingdom"
+    - "London"
+    - "India"
+    - "Japan"
+    - "Australia"
+    - "France"
+    - "Middle East"
+    - "Dubai"
+    - "South Korea"
+    - "Canada"
+    - "Chile"
+    - "Bulgaria"
+    - "Poland"
+    - "Netherlands"
+    - "Denmark"
+    - "Sweden"
+    - "Ireland"
+    - "Singapore"
 
 exclude_keywords:
-  - Junior
-  - Intern
-  - QA
-  - Salesforce
-  - WordPress
-  - PHP
-  - Account Executive
-  - Product Manager
-  - Freelance
-  - Marketing
-  - AML Investigator
-  - Training Manager
-  - Solutions Architect
-  - Customer Support
-  - Sales
-  - Demand Generation
-  - Maintenance Technician
-  - Maintenance Manager
+  - "Junior"
+  - "Intern"
+  - "QA"
+  - "Salesforce"
+  - "WordPress"
+  - "PHP"
+  - "Account Executive"
+  - "Product Manager"
+  - "Freelance"
+  - "Marketing"
+  - "AML Investigator"
+  - "Training Manager"
+  - "Solutions Architect"
+  - "Customer Support"
+  - "Sales"
+  - "Demand Generation"
+  - "Maintenance Technician"
+  - "Maintenance Manager"
