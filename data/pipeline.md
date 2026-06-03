@@ -1,0 +1,67 @@
+# Pipeline — Pendientes
+
+## Pendientes
+
+- [ ] https://job-boards.greenhouse.io/enveritas/jobs/4006514008 | Enveritas | Backend Software Engineer - Python/Postgres [Remote/Global]
+- [ ] https://job-boards.greenhouse.io/varicent/jobs/5194823008 | Varicent | Staff Software Engineer – Backend (Python/TS/AWS/K8s)
+- [ ] https://job-boards.greenhouse.io/tvscientific/jobs/5082800008 | tvScientific | Senior Backend Engineer
+- [ ] https://job-boards.greenhouse.io/trivelta/jobs/4170679009 | Trivelta | Lead Backend Software Engineer (Python, Remote)
+- [ ] https://boards.greenhouse.io/gumgum/jobs/4792997003 | GumGum | Senior Python Software Engineer (Remote US)
+- [ ] https://job-boards.greenhouse.io/ocrolusinc/jobs/5745522004 | Ocrolus | Senior Software Engineer - Python
+- [ ] https://job-boards.greenhouse.io/wizardcommerce/jobs/5867820004 | Wizard | Senior Python Engineer
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI (US-Remote)
+- [ ] https://job-boards.greenhouse.io/technergetics/jobs/4656544006 | Technergetics | Full Stack Software Engineer II
+- [ ] https://job-boards.greenhouse.io/knock/jobs/5641358004 | Knock | Senior Full Stack Software Engineer (Frontend-focused, Remote US)
+- [ ] https://job-boards.greenhouse.io/knock/jobs/5745759004 | Knock | Senior Full Stack Software Engineer (Backend-focused, Remote US)
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4847758101 | Unframe | Full Stack Software Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/pairteam/jobs/7985103002 | Pair Team | Senior Software Engineer - Fullstack (Remote)
+- [ ] https://job-boards.greenhouse.io/bennie/jobs/4695837005 | Bennie | Staff Software Engineer, Full Stack
+- [ ] https://job-boards.greenhouse.io/zenbusiness/jobs/5037879007 | ZenBusiness | Senior Software Engineer (Full Stack)
+- [ ] https://job-boards.greenhouse.io/guardsquare/jobs/5554240 | Guardsquare | Front-End Engineer (React/TypeScript)
+- [ ] https://boards.greenhouse.io/materialize/jobs/4964179004 | Materialize | Senior Front End Engineer (React/Typescript)
+- [ ] https://job-boards.greenhouse.io/beaconbiosignals/jobs/4032538009 | Beacon Biosignals | Senior Front-End Software Engineer (React/Typescript)
+- [ ] https://job-boards.greenhouse.io/swanbitcoin/jobs/4568722008 | Swan Bitcoin | Front End Engineer (React/TypeScript)
+- [ ] https://job-boards.greenhouse.io/fello/jobs/4751950008 | Fello | Senior Front-end Engineer (React/Typescript)
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8488222002 | Postscript | Senior Frontend Engineer
+- [ ] https://boards.greenhouse.io/embed/job_app?for=prizepicks&token=6261083003 | PrizePicks | Senior Front End Engineer (Remote US)
+- [ ] https://job-boards.greenhouse.io/varicent/jobs/5136469008 | Varicent | Lead Software Engineer, Generative AI
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer
+- [ ] https://job-boards.greenhouse.io/justanswer/jobs/7790010002 | JustAnswer | Senior AI Prompt Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4373354005 | Scale AI | Machine Learning Engineer, GenAI Quality
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5987842004 | Natera | Senior Agentic Systems Engineer
+- [ ] https://job-boards.greenhouse.io/factored/jobs/4976846008 | Factored | Machine Learning Engineer, Generative AI & LLMs
+- [ ] https://jobs.ashbyhq.com/close/01fc4ad7-4d33-4f64-919f-502bb2c20efc | Close | Senior Software Engineer - Backend (USA Only, Remote)
+- [ ] https://jobs.ashbyhq.com/bestow/c4426151-b1bf-4336-9d6f-8667859c28be | Bestow | Backend Software Engineer II (Python)
+- [ ] https://jobs.ashbyhq.com/bestow/0c6e36f5-9145-467e-978d-eb8e28d237fb | Bestow | Senior Backend Engineer (Python)
+- [ ] https://jobs.ashbyhq.com/scalera/9feb0781-ace4-49b6-b8dd-be6a6a720b4e | Scalera | Senior Backend Engineer (Python, Remote)
+- [ ] https://jobs.ashbyhq.com/The%20Zebra/75f4a4b8-ad47-4566-948f-6356202951e6 | The Zebra | Senior Backend Software Engineer (Remote, US)
+- [ ] https://jobs.ashbyhq.com/scribd/b9fee8b8-d319-44f4-9811-17b05874a72d | Scribd | Backend Software Engineer (Python)
+- [ ] https://jobs.ashbyhq.com/distro-llc/d0cfe97c-77ae-42d0-8ccd-f44970b67cba | Distro LLC | Senior Backend Engineer
+- [ ] https://jobs.ashbyhq.com/rundoo/c6f39d6e-f216-41e7-8ebd-ca0cfe38893d | Rundoo | Full-Stack Engineer (Go, React, TypeScript)
+- [ ] https://jobs.ashbyhq.com/rundoo/6b375419-4d98-4f34-b9f4-06c6683d04bb | Rundoo | Mid Full-Stack Engineer (Go, React, TypeScript)
+- [ ] https://jobs.ashbyhq.com/conveo/87708aaa-34b0-4a5c-ad85-76ceed219b0d | Conveo.ai | Senior Full-Stack Engineer (React/Typescript)
+- [ ] https://jobs.ashbyhq.com/close/8b67d1fa-5852-4f7d-b8c2-cedc20b16da7 | Close | Senior Software Engineer - Frontend/React (USA Only, Remote)
+- [ ] https://jobs.ashbyhq.com/linero/faadad1e-766e-49cc-b7fa-c0f43dc78fae | Linero | Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/duck-duck-go/5d3e230c-ecf4-407a-a3a5-232185ce8319 | DuckDuckGo | Senior Frontend Engineer, React/Typescript
+- [ ] https://jobs.ashbyhq.com/Cred%20Platform/89fb9e97-3d9b-4e67-ae7e-ca7216f2b088 | CRED Platform | Frontend Engineer (React, Remote)
+- [ ] https://jobs.ashbyhq.com/httpie/17de9aae-7a3c-40fb-a352-ddbbd7c14385 | HTTPie | Senior Frontend Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/magicschool/fd3d740a-78a9-4395-b481-5503e4c43dd3 | MagicSchool AI | GenAI Engineer
+- [ ] https://jobs.ashbyhq.com/a-place-for-mom/6c4f037d-c49b-466e-8cc8-acfa2280d453 | A Place for Mom | Sr. Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/vyn/1ee10808-507f-45a8-86b1-0063b11362b2 | Vyn | GenAI Engineer
+- [ ] https://jobs.ashbyhq.com/GPTZero/9e23e2df-d15d-4bf5-a841-ced573fb8511 | GPTZero | LLM Engineer (NYC)
+- [ ] https://jobs.ashbyhq.com/Lightfield/920ab891-adaa-4907-bcc9-6fcb993aa9fb | Lightfield | Machine Learning Engineer, GenAI Platform
+- [ ] https://jobs.ashbyhq.com/rula/d477da0d-6d23-4166-8afd-6a6a334f4710 | Rula | Staff AI Engineer - Applied AI (Remote)
+- [ ] https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer (Remote)
+- [ ] https://jobs.lever.co/railroad19/b722c437-4a02-4289-8890-1a45109a0d2b | Railroad19 | Cloud Full Stack Python Software Engineer (US Remote)
+- [ ] https://jobs.lever.co/Anovium/eaf671f4-d477-46e2-b7c4-e59a90274b40 | Anovium | Lead Full Stack Python/FastApi/React Engineer (Remote)
+- [ ] https://jobs.lever.co/Anovium/3016fb9d-c439-4383-b2bf-a31bfdd73852 | Anovium | Senior Full Stack Python/FastApi/React Engineer (Remote)
+- [ ] https://jobs.lever.co/supermove/176fe130-a2cc-40da-b978-8c693fefc510 | Supermove | Software Engineer, Full-Stack (Remote)
+- [ ] https://jobs.lever.co/Sprinto/cc9fc7a2-b2c7-4181-a9cf-4e00d64927d5 | Sprinto | Senior Full-stack Engineer (Remote)
+- [ ] https://jobs.lever.co/Termius/1bbdc24d-d912-4c9d-ac6f-4df21a62c8c9 | Termius | Senior Full Stack Engineer (Remote)
+- [ ] https://jobs.lever.co/remedyproductstudio/e37a25bb-44b1-4e9d-bb33-bfc2b0e8522e | Remedy Product Studio | Full Stack Engineer (Python, Javascript)
+- [ ] https://www.workatastartup.com/jobs/44310 | Jiga | Full Stack Engineer (Remote/US)
+- [ ] https://www.workatastartup.com/jobs/74755 | Memfault | Full Stack Engineer (Typescript/Python)
+- [ ] https://www.workatastartup.com/jobs/55427 | Sameday | Fullstack Engineer (AI Emphasis)
+- [ ] https://www.workatastartup.com/jobs/60455 | Pump.co | Founding Backend Engineer
+- [ ] https://www.workatastartup.com/jobs/44055 | Blink | Full Stack Engineer
+- [ ] https://www.workatastartup.com/jobs/78897 | AiPrise | Full Stack Engineer
