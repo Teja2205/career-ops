@@ -65,3 +65,19 @@
 - [ ] https://www.workatastartup.com/jobs/60455 | Pump.co | Founding Backend Engineer
 - [ ] https://www.workatastartup.com/jobs/44055 | Blink | Full Stack Engineer
 - [ ] https://www.workatastartup.com/jobs/78897 | AiPrise | Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/allbooked/jobs/4795844007 | AllBooked | Senior Full-Stack Software Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/trivelta/jobs/4170694009 | Trivelta | Senior Software Engineer - TypeScript/React/Next.js (Remote)
+- [ ] https://job-boards.greenhouse.io/beaconbiosignals/jobs/4093730009 | Beacon Biosignals | Front-End Software Engineer IV (React/TypeScript)
+- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4772554101 | JetBrains | Senior Frontend Developer (React, TypeScript)
+- [ ] https://job-boards.greenhouse.io/sonicwall/jobs/7393830 | SonicWall | Frontend Engineer - ReactJS and TypeScript
+- [ ] https://job-boards.greenhouse.io/optimaldynamics/jobs/5969675004 | Optimal Dynamics | Senior Software Engineer, Frontend
+- [ ] https://jobs.ashbyhq.com/g2i/26536a93-948e-40ea-bad8-ba89269571ec | G2i Inc. | FullStack Engineer (Node+Nest & React+Next)
+- [ ] https://jobs.ashbyhq.com/dash0/bb433d72-7241-49b4-acfb-a6a403f9422c | Dash0 | Senior Product Engineer, Frontend (React, TypeScript)
+- [ ] https://jobs.ashbyhq.com/OnHires/51c91fe0-8357-4f36-9a98-24b9d4dcdc86 | OnHires | Frontend Engineer (React/TypeScript)
+- [ ] https://jobs.ashbyhq.com/oneleet/3d382df2-2239-4c7c-b48b-19a3ac71e8d1 | Oneleet | Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/7b378ec5-efb7-4e14-9b4b-74ee59dd6c04 | Jobgether | Full Stack Developer (REMOTE)
+- [ ] https://jobs.lever.co/jobgether/763066e9-0aac-48c9-893d-b44ecc8f535f | Jobgether | Full Stack Engineer (REMOTE)
+- [ ] https://jobs.lever.co/jobgether/f812733c-2e24-459c-bb1f-0a48203d53b3 | Jobgether | Lead Full Stack Engineer (REMOTE)
+- [ ] https://jobs.lever.co/jobgether/123031b0-d21d-4927-918c-c9e18474fbcb | Jobgether | Remote Backend Engineer
+- [ ] https://jobs.lever.co/veeva/5de877f7-1b5e-4626-a3cf-366a2ff73600 | Veeva Systems | Python Engineer (Remote)
+- [ ] https://jobs.lever.co/labelbox/d07fb3b6-ecc3-449e-b75c-e6b0f47d6f26 | Alignerr | Principal Python Engineer - ML Infrastructure
