@@ -81,3 +81,10 @@
 - [ ] https://jobs.lever.co/jobgether/123031b0-d21d-4927-918c-c9e18474fbcb | Jobgether | Remote Backend Engineer
 - [ ] https://jobs.lever.co/veeva/5de877f7-1b5e-4626-a3cf-366a2ff73600 | Veeva Systems | Python Engineer (Remote)
 - [ ] https://jobs.lever.co/labelbox/d07fb3b6-ecc3-449e-b75c-e6b0f47d6f26 | Alignerr | Principal Python Engineer - ML Infrastructure
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4702798005 | Tech Holding | Frontend Engineer (Contract) - Remote
+- [ ] https://jobs.ashbyhq.com/hypha/adc5a15f-b9e2-498d-ae9c-f72968f63694 | Hypha | Full Stack Product Engineer
+- [ ] https://jobs.ashbyhq.com/astra/6664545a-652e-477e-be12-9a7e8d32f06b | Astra | Senior Fullstack Engineer
+- [ ] https://jobs.ashbyhq.com/akasa/fd805dcf-7d8e-4f7d-b74c-6cafc32cf890 | AKASA | Software Engineer, Client Solutions
+- [ ] https://jobs.ashbyhq.com/commit/c1c7e027-2784-4006-9589-94e2752c32f5 | Commit | Intermediate Software Engineer (Remote)
+- [ ] https://jobs.lever.co/smart-working-solutions/a451e63f-7478-48b9-80ef-1355521e1c3f | Smart Working Solutions | Mid-Senior Full Stack Engineer (Remote, Full-Time)
+- [ ] https://www.workatastartup.com/jobs/70924 | Fern | Backend Engineer
