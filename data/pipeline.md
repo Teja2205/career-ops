@@ -88,3 +88,4 @@
 - [ ] https://jobs.ashbyhq.com/commit/c1c7e027-2784-4006-9589-94e2752c32f5 | Commit | Intermediate Software Engineer (Remote)
 - [ ] https://jobs.lever.co/smart-working-solutions/a451e63f-7478-48b9-80ef-1355521e1c3f | Smart Working Solutions | Mid-Senior Full Stack Engineer (Remote, Full-Time)
 - [ ] https://www.workatastartup.com/jobs/70924 | Fern | Backend Engineer
+- [ ] https://job-boards.greenhouse.io/cloudwerxinc/jobs/5051132007 | CloudWerx | Sr. AI/ML Engineer
