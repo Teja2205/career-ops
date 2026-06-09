@@ -94,3 +94,8 @@
 - [ ] https://www.workatastartup.com/jobs/64110 | StackAI | Staff Backend Engineer
 - [ ] https://www.workatastartup.com/jobs/76640 | kapa.ai | Software Engineer (Full-stack)
 - [ ] https://www.workatastartup.com/jobs/73410 | Helpcare AI | Senior Fullstack Engineer
+- [ ] https://boards.greenhouse.io/samsara/jobs/7362937 | Samsara | Software Engineer, Full Stack - Safety (Remote - US)
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/7598223003 | Oddball | Applied AI/ML Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/grai/cf2f899f-7f57-454d-a496-ec824d5e5fd3 | GRAI | Fullstack Typescript Engineer (Remote)
+- [ ] https://www.workatastartup.com/jobs/90298 | Pasito | AI/ML Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/84c4a617-ec39-41d2-b73f-79c66a7795b7 | Jobgether | Full Stack Developer (Remote)
