@@ -99,3 +99,5 @@
 - [ ] https://jobs.ashbyhq.com/grai/cf2f899f-7f57-454d-a496-ec824d5e5fd3 | GRAI | Fullstack Typescript Engineer (Remote)
 - [ ] https://www.workatastartup.com/jobs/90298 | Pasito | AI/ML Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/84c4a617-ec39-41d2-b73f-79c66a7795b7 | Jobgether | Full Stack Developer (Remote)
+- [ ] https://jobs.ashbyhq.com/rula/009ea81c-8130-4de5-b419-657243d872c1 | Rula | Sr. Software Engineer - Backend/AI (Remote)
+- [ ] https://jobs.lever.co/Fliff/f933b4aa-5911-490b-bb6d-c3de2994ffdc | Fliff | Python Engineer
