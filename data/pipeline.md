@@ -101,3 +101,9 @@
 - [ ] https://jobs.lever.co/jobgether/84c4a617-ec39-41d2-b73f-79c66a7795b7 | Jobgether | Full Stack Developer (Remote)
 - [ ] https://jobs.ashbyhq.com/rula/009ea81c-8130-4de5-b419-657243d872c1 | Rula | Sr. Software Engineer - Backend/AI (Remote)
 - [ ] https://jobs.lever.co/Fliff/f933b4aa-5911-490b-bb6d-c3de2994ffdc | Fliff | Python Engineer
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4785681008 | RunPod | Software Engineer (Full-Stack)
+- [ ] https://job-boards.greenhouse.io/xapo61/jobs/7673273003 | Xapo Bank | Front-End Web Developer (Remote - Work from Anywhere)
+- [ ] https://jobs.lever.co/weekdayworks/3e78c046-553d-4fa2-80d1-28c45c35c403 | Weekday | Founding Full-Stack Engineer (Python/Django/Go/React)
+- [ ] https://jobs.lever.co/sprucesystems/b6ed1d39-d3e4-454f-8d8c-a5a65d64651f | Spruce | Full-Stack Software Engineer (Remote)
+- [ ] https://www.workatastartup.com/jobs/92061 | Hub.xyz | Founding Full Stack AI Engineer
+- [ ] https://www.workatastartup.com/jobs/77926 | Reacher | Senior Software Engineer (Full Stack)
