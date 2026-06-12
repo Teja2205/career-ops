@@ -107,3 +107,4 @@
 - [ ] https://jobs.lever.co/sprucesystems/b6ed1d39-d3e4-454f-8d8c-a5a65d64651f | Spruce | Full-Stack Software Engineer (Remote)
 - [ ] https://www.workatastartup.com/jobs/92061 | Hub.xyz | Founding Full Stack AI Engineer
 - [ ] https://www.workatastartup.com/jobs/77926 | Reacher | Senior Software Engineer (Full Stack)
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5339232004 | PlayStation Global | Senior Machine Learning Engineer - GenAI
