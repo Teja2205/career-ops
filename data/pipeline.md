@@ -108,3 +108,9 @@
 - [ ] https://www.workatastartup.com/jobs/92061 | Hub.xyz | Founding Full Stack AI Engineer
 - [ ] https://www.workatastartup.com/jobs/77926 | Reacher | Senior Software Engineer (Full Stack)
 - [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5339232004 | PlayStation Global | Senior Machine Learning Engineer - GenAI
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4053067009 | Oura | Senior Backend Engineer (Python)
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/7934151002 | SmartAsset | Senior LLM Engineer
+- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4721961101 | Remote People | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/assembledhq/81c159cf-ad96-46af-97a1-c08eb415dbfb | Assembled | Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/meshy/90988ed5-f767-4c0d-9cbc-b69d792db1a9 | Meshy | Generative AI - ML System Engineering
+- [ ] https://www.workatastartup.com/jobs/96189 | erad | Full Stack Engineer (Remote)
