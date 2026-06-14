@@ -114,3 +114,6 @@
 - [ ] https://jobs.ashbyhq.com/assembledhq/81c159cf-ad96-46af-97a1-c08eb415dbfb | Assembled | Frontend Engineer
 - [ ] https://jobs.ashbyhq.com/meshy/90988ed5-f767-4c0d-9cbc-b69d792db1a9 | Meshy | Generative AI - ML System Engineering
 - [ ] https://www.workatastartup.com/jobs/96189 | erad | Full Stack Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6012381004 | Natera | Senior AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5142526007 | Zscaler | Principal GenAI Data Engineer
+- [ ] https://jobs.ashbyhq.com/Promise/f5d99981-cbe3-4dc2-beac-dd76ca219692 | Promise | Product Engineer - Frontend
