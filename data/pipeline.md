@@ -117,3 +117,4 @@
 - [ ] https://job-boards.greenhouse.io/natera/jobs/6012381004 | Natera | Senior AI/ML Engineer
 - [ ] https://job-boards.greenhouse.io/zscaler/jobs/5142526007 | Zscaler | Principal GenAI Data Engineer
 - [ ] https://jobs.ashbyhq.com/Promise/f5d99981-cbe3-4dc2-beac-dd76ca219692 | Promise | Product Engineer - Frontend
+- [ ] https://jobs.ashbyhq.com/truelogic/ec0f945f-53cb-4fd4-b34c-60e09ced6b83 | Truelogic | Senior Full-stack Engineer (TypeScript/React)
