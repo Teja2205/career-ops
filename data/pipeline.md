@@ -118,3 +118,10 @@
 - [ ] https://job-boards.greenhouse.io/zscaler/jobs/5142526007 | Zscaler | Principal GenAI Data Engineer
 - [ ] https://jobs.ashbyhq.com/Promise/f5d99981-cbe3-4dc2-beac-dd76ca219692 | Promise | Product Engineer - Frontend
 - [ ] https://jobs.ashbyhq.com/truelogic/ec0f945f-53cb-4fd4-b34c-60e09ced6b83 | Truelogic | Senior Full-stack Engineer (TypeScript/React)
+- [ ] https://job-boards.greenhouse.io/remesh/jobs/8450776002 | Remesh | Software Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/canopytax/jobs/4079290009 | Canopy | Senior Backend Engineer (Python, Remote)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7637067003 | Affirm | Software Engineer II, Backend (AI Agents)
+- [ ] https://job-boards.greenhouse.io/hungryroot/jobs/5978366004 | Hungryroot | Deployed Software Engineer (Remote US)
+- [ ] https://job-boards.greenhouse.io/cortex/jobs/5165927008 | Cortex | Senior Software Engineer, Backend (Remote US)
+- [ ] https://job-boards.greenhouse.io/xapo61/jobs/7572065003 | Xapo Bank | Software Engineer (Remote - Work from Anywhere)
+- [ ] https://jobs.ashbyhq.com/futurefitai/df12191c-3c81-4750-9a17-4e6f94181599 | FutureFit AI | Software Engineer (Remote US/CA)
