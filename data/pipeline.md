@@ -125,3 +125,6 @@
 - [ ] https://job-boards.greenhouse.io/cortex/jobs/5165927008 | Cortex | Senior Software Engineer, Backend (Remote US)
 - [ ] https://job-boards.greenhouse.io/xapo61/jobs/7572065003 | Xapo Bank | Software Engineer (Remote - Work from Anywhere)
 - [ ] https://jobs.ashbyhq.com/futurefitai/df12191c-3c81-4750-9a17-4e6f94181599 | FutureFit AI | Software Engineer (Remote US/CA)
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8059030002 | SmartAsset | ML Engineer
+- [ ] https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad | Rula | Principal AI Engineer
+- [ ] https://jobs.lever.co/filevine/cc9e0224-2deb-4a21-9a1f-79cfae365bab | Filevine | Senior Backend Engineer - Python
