@@ -1448,3 +1448,12 @@
 - [ ] https://ats.rippling.com/prudentia-sciences/jobs/8564a263-80ed-4229-b5c4-e4a8cc549417 | Prudentia Sciences | Senior AI / ML Engineer
 - [ ] https://seasats.breezy.hr/p/55a2ed31ba39-senior-front-end-software-engineer | Seasats | Senior Front End Software Engineer
 - [ ] https://jobs.ashbyhq.com/dust/24b8c0ad-9cc5-4c64-8b78-caa57ca4b08e | Dust | Senior AI Support Engineer (US)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4053067009 | Ōura | Senior Backend Engineer (Python)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7686804003 | Affirm | Senior Software Engineer, Full Stack (Zero to One Labs)
+- [ ] https://job-boards.greenhouse.io/machinifyinc/jobs/4111550009 | Machinify | Sr/Staff Software Engineer, Fullstack
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5142526007 | Zscaler | Principal GenAI Data Engineer
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8059030002 | SmartAsset | ML Engineer
+- [ ] https://jobs.ashbyhq.com/saronic/aaf993ec-7263-4f03-8b3b-7c3bf200b7f2 | Saronic Technologies | Senior Full Stack Engineer
+- [ ] https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad | Rula | Principal AI Engineer
+- [ ] https://jobs.lever.co/filevine/cc9e0224-2deb-4a21-9a1f-79cfae365bab | Filevine | Senior Backend Engineer - Python
+- [ ] https://www.workatastartup.com/jobs/96189 | erad | Full Stack Engineer
