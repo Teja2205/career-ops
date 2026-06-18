@@ -22,6 +22,9 @@ modes/_profile.md
 .update-dismissed
 .update-lock
 
+# Secrets
+.env
+
 # Generated
 .resolved-prompt-*
 node_modules/

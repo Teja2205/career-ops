@@ -38,6 +38,11 @@ MIN_SCORE=0
 MODEL=""  # empty = let claude -p use the Claude Max default
 RATE_LIMIT_SLEEP=300
 BATCH_PAUSED=false
+PRESCREEN=false
+PRESCREEN_THRESHOLD=3.0
+PRESCREEN_MODEL="qwen/qwen2.5-14b-instruct:free"
+PRESCREEN_BASE="https://openrouter.ai/api"
+PRESCREEN_API_KEY="${OPENROUTER_API_KEY:-}"
 
 usage() {
   cat <<'USAGE'
@@ -59,6 +64,12 @@ Options:
   --model NAME         Claude model passed to `claude -p --model` (default:
                        unset = Claude Max default). Use a cheaper model for
                        large batches, e.g. `--model claude-sonnet-4-6`.
+  --prescreen          Run ollama-prescreen.mjs before each Claude worker.
+                       Skips offers scoring below --prescreen-threshold.
+  --prescreen-threshold N  Min score to pass to Claude (default: 3.0)
+  --prescreen-model NAME   Model for pre-screener (default: qwen/qwen2.5-14b-instruct:free)
+  --prescreen-base URL     API base URL for pre-screener (default: https://openrouter.ai/api)
+  --prescreen-api-key KEY  API key for pre-screener (default: \$OPENROUTER_API_KEY)
   -h, --help           Show this help
 
 Files:
@@ -80,6 +91,12 @@ Examples:
 
   # Process 2 at a time starting from ID 10
   ./batch-runner.sh --parallel 2 --start-from 10
+
+  # Pre-screen with Qwen via OpenRouter, only run Claude on score >= 3.0
+  OPENROUTER_API_KEY=sk-or-... ./batch-runner.sh --prescreen
+
+  # Pre-screen with local Ollama instead
+  ./batch-runner.sh --prescreen --prescreen-base http://localhost:11434 --prescreen-model qwen2.5:14b
 USAGE
 }
 
@@ -99,6 +116,11 @@ while [[ $# -gt 0 ]]; do
       shift 2
       ;;
     --model) MODEL="$2"; shift 2 ;;
+    --prescreen) PRESCREEN=true; shift ;;
+    --prescreen-threshold) PRESCREEN_THRESHOLD="$2"; shift 2 ;;
+    --prescreen-model) PRESCREEN_MODEL="$2"; shift 2 ;;
+    --prescreen-base) PRESCREEN_BASE="$2"; shift 2 ;;
+    --prescreen-api-key) PRESCREEN_API_KEY="$2"; shift 2 ;;
     -h|--help) usage; exit 0 ;;
     *) echo "Unknown option: $1"; usage; exit 1 ;;
   esac
@@ -368,6 +390,32 @@ process_offer() {
   local jd_file="/tmp/batch-jd-${id}.txt"
 
   echo "--- Processing offer #$id: $url (report $report_num, attempt $((retries + 1)))"
+
+  # Pre-screen with local/cloud model before spending Claude tokens
+  if [[ "$PRESCREEN" == "true" ]]; then
+    echo "    🔍 Pre-screening with ${PRESCREEN_MODEL}..."
+    local prescreen_args=("$url" --model "$PRESCREEN_MODEL" --ollama-base "$PRESCREEN_BASE")
+    [[ -n "$PRESCREEN_API_KEY" ]] && prescreen_args+=(--api-key "$PRESCREEN_API_KEY")
+
+    local prescreen_json
+    prescreen_json=$(node "$PROJECT_DIR/ollama-prescreen.mjs" "${prescreen_args[@]}" 2>/dev/null || echo '{"score":3.0,"reason":"pre-screener error — passing to Claude"}')
+
+    local prescreen_score prescreen_reason
+    prescreen_score=$(node -e "try{const d=JSON.parse($(printf '%q' "$prescreen_json"));console.log(d.score??3.0)}catch{console.log(3.0)}" 2>/dev/null || echo "3.0")
+    prescreen_reason=$(node -e "try{const d=JSON.parse($(printf '%q' "$prescreen_json"));console.log(d.reason??'')}catch{}" 2>/dev/null || true)
+
+    echo "    Pre-screen score: ${prescreen_score}/5 — ${prescreen_reason}"
+
+    if (( $(echo "$prescreen_score < $PRESCREEN_THRESHOLD" | bc -l) )); then
+      local completed_at
+      completed_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+      update_state "$id" "$url" "skipped" "$started_at" "$completed_at" "$report_num" "$prescreen_score" "pre-screen below ${PRESCREEN_THRESHOLD}" "$retries"
+      echo "    ⏭️  Skipped by pre-screener (${prescreen_score} < ${PRESCREEN_THRESHOLD}) — no Claude tokens spent"
+      return 0
+    fi
+
+    echo "    ✅ Passed pre-screen — handing off to Claude"
+  fi
 
   # Build the prompt with placeholders replaced
   local prompt
