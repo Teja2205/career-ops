@@ -1457,3 +1457,12 @@
 - [ ] https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad | Rula | Principal AI Engineer
 - [ ] https://jobs.lever.co/filevine/cc9e0224-2deb-4a21-9a1f-79cfae365bab | Filevine | Senior Backend Engineer - Python
 - [ ] https://www.workatastartup.com/jobs/96189 | erad | Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/truebill/jobs/7637297003 | Rocket Money | Senior Full Stack Engineer, AI & Data Products
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4280748009 | Fireworks AI | AI Field Engineer - AI Natives
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4284317009 | Fireworks AI | AI Field Engineer - Enterprise
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4702797005 | Tech Holding | Frontend Engineer (Contract) - Remote
+- [ ] https://job-boards.greenhouse.io/xealth/jobs/7517649003 | Xealth | Senior Software Engineer, Full Stack (TypeScript, React, AWS)
+- [ ] https://jobs.ashbyhq.com/pika/35eb68a1-c26b-4221-80e6-51e21ec8edd9 | Pika | Senior Software Engineer, Backend/Infra
+- [ ] https://jobs.ashbyhq.com/optro/3a7f9ca6-9293-4dca-8546-5458c7f15f0a | Optro | Senior Software Engineer I (Backend), AI Governance
+- [ ] https://jobs.ashbyhq.com/curri/18588740-4f80-4a40-b3c0-fed97517a3c4 | Curri | Senior Software Engineer
+- [ ] https://jobs.lever.co/Anovium/ae468a20-d665-4352-b965-9f49d1f0a528 | Anovium | Lead Full Stack Python/FastApi/React Engineer (TMS)
