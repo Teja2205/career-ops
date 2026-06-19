@@ -38,11 +38,8 @@ MIN_SCORE=0
 MODEL=""  # empty = let claude -p use the Claude Max default
 RATE_LIMIT_SLEEP=300
 BATCH_PAUSED=false
-PRESCREEN=false
-PRESCREEN_THRESHOLD=3.0
-PRESCREEN_MODEL="qwen/qwen2.5-14b-instruct:free"
-PRESCREEN_BASE="https://openrouter.ai/api"
-PRESCREEN_API_KEY="${OPENROUTER_API_KEY:-}"
+STATUS_ONLY=false
+WATCH_MODE=false
 
 usage() {
   cat <<'USAGE'
@@ -64,12 +61,8 @@ Options:
   --model NAME         Claude model passed to `claude -p --model` (default:
                        unset = Claude Max default). Use a cheaper model for
                        large batches, e.g. `--model claude-sonnet-4-6`.
-  --prescreen          Run ollama-prescreen.mjs before each Claude worker.
-                       Skips offers scoring below --prescreen-threshold.
-  --prescreen-threshold N  Min score to pass to Claude (default: 3.0)
-  --prescreen-model NAME   Model for pre-screener (default: qwen/qwen2.5-14b-instruct:free)
-  --prescreen-base URL     API base URL for pre-screener (default: https://openrouter.ai/api)
-  --prescreen-api-key KEY  API key for pre-screener (default: \$OPENROUTER_API_KEY)
+  --status             Show batch progress and a per-job table, then exit
+  --watch              Live-refresh progress until the run completes
   -h, --help           Show this help
 
 Files:
@@ -91,12 +84,6 @@ Examples:
 
   # Process 2 at a time starting from ID 10
   ./batch-runner.sh --parallel 2 --start-from 10
-
-  # Pre-screen with Qwen via OpenRouter, only run Claude on score >= 3.0
-  OPENROUTER_API_KEY=sk-or-... ./batch-runner.sh --prescreen
-
-  # Pre-screen with local Ollama instead
-  ./batch-runner.sh --prescreen --prescreen-base http://localhost:11434 --prescreen-model qwen2.5:14b
 USAGE
 }
 
@@ -116,11 +103,8 @@ while [[ $# -gt 0 ]]; do
       shift 2
       ;;
     --model) MODEL="$2"; shift 2 ;;
-    --prescreen) PRESCREEN=true; shift ;;
-    --prescreen-threshold) PRESCREEN_THRESHOLD="$2"; shift 2 ;;
-    --prescreen-model) PRESCREEN_MODEL="$2"; shift 2 ;;
-    --prescreen-base) PRESCREEN_BASE="$2"; shift 2 ;;
-    --prescreen-api-key) PRESCREEN_API_KEY="$2"; shift 2 ;;
+    --status) STATUS_ONLY=true; shift ;;
+    --watch) WATCH_MODE=true; shift ;;
     -h|--help) usage; exit 0 ;;
     *) echo "Unknown option: $1"; usage; exit 1 ;;
   esac
@@ -391,32 +375,6 @@ process_offer() {
 
   echo "--- Processing offer #$id: $url (report $report_num, attempt $((retries + 1)))"
 
-  # Pre-screen with local/cloud model before spending Claude tokens
-  if [[ "$PRESCREEN" == "true" ]]; then
-    echo "    🔍 Pre-screening with ${PRESCREEN_MODEL}..."
-    local prescreen_args=("$url" --model "$PRESCREEN_MODEL" --ollama-base "$PRESCREEN_BASE")
-    [[ -n "$PRESCREEN_API_KEY" ]] && prescreen_args+=(--api-key "$PRESCREEN_API_KEY")
-
-    local prescreen_json
-    prescreen_json=$(node "$PROJECT_DIR/ollama-prescreen.mjs" "${prescreen_args[@]}" 2>/dev/null || echo '{"score":3.0,"reason":"pre-screener error — passing to Claude"}')
-
-    local prescreen_score prescreen_reason
-    prescreen_score=$(node -e "try{const d=JSON.parse($(printf '%q' "$prescreen_json"));console.log(d.score??3.0)}catch{console.log(3.0)}" 2>/dev/null || echo "3.0")
-    prescreen_reason=$(node -e "try{const d=JSON.parse($(printf '%q' "$prescreen_json"));console.log(d.reason??'')}catch{}" 2>/dev/null || true)
-
-    echo "    Pre-screen score: ${prescreen_score}/5 — ${prescreen_reason}"
-
-    if (( $(echo "$prescreen_score < $PRESCREEN_THRESHOLD" | bc -l) )); then
-      local completed_at
-      completed_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-      update_state "$id" "$url" "skipped" "$started_at" "$completed_at" "$report_num" "$prescreen_score" "pre-screen below ${PRESCREEN_THRESHOLD}" "$retries"
-      echo "    ⏭️  Skipped by pre-screener (${prescreen_score} < ${PRESCREEN_THRESHOLD}) — no Claude tokens spent"
-      return 0
-    fi
-
-    echo "    ✅ Passed pre-screen — handing off to Claude"
-  fi
-
   # Build the prompt with placeholders replaced
   local prompt
   prompt="Procesa esta oferta de empleo. Ejecuta el pipeline completo: evaluación A-F + report .md + PDF + tracker line."
@@ -526,8 +484,8 @@ process_offer() {
     fi
 
     # Check min-score gate
-    if [[ "$score" != "-" && -n "$score" ]] && (( $(echo "$MIN_SCORE > 0" | bc -l) )); then
-      if (( $(echo "$score < $MIN_SCORE" | bc -l) )); then
+    if [[ "$score" != "-" && -n "$score" ]] && awk "BEGIN{exit !($MIN_SCORE > 0)}"; then
+      if awk "BEGIN{exit !($score < $MIN_SCORE)}"; then
         update_state "$id" "$url" "skipped" "$started_at" "$completed_at" "$report_num" "$score" "below-min-score" "$retries"
         echo "    ⏭️  Skipped (score: $score < min-score: $MIN_SCORE)"
         return 0
@@ -553,6 +511,9 @@ merge_tracker() {
   echo "=== Merging tracker additions ==="
   node "$PROJECT_DIR/merge-tracker.mjs"
   echo ""
+  echo "=== Reconciling pipeline.md ==="
+  node "$PROJECT_DIR/reconcile-pipeline.mjs" || echo "⚠️  Pipeline reconcile had issues (see above)"
+  echo ""
   echo "=== Verifying pipeline integrity ==="
   node "$PROJECT_DIR/verify-pipeline.mjs" || echo "⚠️  Verification found issues (see above)"
 }
@@ -576,7 +537,7 @@ print_summary() {
     case "$sstatus" in
       completed) completed=$((completed + 1))
         if [[ "$sscore" != "-" && -n "$sscore" ]]; then
-          score_sum=$(echo "$score_sum + $sscore" | bc 2>/dev/null || echo "$score_sum")
+          score_sum=$(awk "BEGIN{print $score_sum + $sscore}" 2>/dev/null || echo "$score_sum")
           score_count=$((score_count + 1))
         fi
         ;;
@@ -590,14 +551,131 @@ print_summary() {
 
   if (( score_count > 0 )); then
     local avg
+    avg=$(awk "BEGIN{printf \"%.1f\", $score_sum / $score_count}" 2>/dev/null || echo "N/A")
+    echo "Average score: $avg/5 ($score_count scored)"
+  fi
+}
+
+print_status_table() {
+  if [[ ! -f "$STATE_FILE" ]]; then
+    echo "No state file found at $STATE_FILE"
+    return
+  fi
+
+  local total=0 completed=0 processing=0 failed=0 pending=0 skipped=0 rate_limited=0 paused_rate_limit=0
+  local score_sum=0 score_count=0
+
+  # Read first line to skip header
+  local header=true
+  while IFS=$'\t' read -r sid surl sstatus sstarted scompleted sreport sscore serror sretries || [[ -n "$sid" ]]; do
+    if [[ "$header" == "true" ]]; then
+      header=false
+      continue
+    fi
+    [[ -z "$sid" ]] && continue
+    sstatus="${sstatus%$'\r'}"
+    sscore="${sscore%$'\r'}"
+    serror="${serror%$'\r'}"
+    sreport="${sreport%$'\r'}"
+    total=$((total + 1))
+    case "$sstatus" in
+      completed)
+        completed=$((completed + 1))
+        if [[ "$sscore" != "-" && -n "$sscore" ]]; then
+          score_sum=$(echo "$score_sum + $sscore" | bc 2>/dev/null || echo "$score_sum")
+          score_count=$((score_count + 1))
+        fi
+        ;;
+      processing) processing=$((processing + 1)) ;;
+      failed) failed=$((failed + 1)) ;;
+      skipped) skipped=$((skipped + 1)) ;;
+      rate_limited) rate_limited=$((rate_limited + 1)) ;;
+      paused_rate_limit) paused_rate_limit=$((paused_rate_limit + 1)) ;;
+      *) pending=$((pending + 1)) ;;
+    esac
+  done < "$STATE_FILE"
+
+  echo "=== Batch Progress ==="
+  echo "Total: $total | Completed: $completed | Processing: $processing | Failed: $failed | Pending: $pending | Skipped: $skipped | Rate Limited: $rate_limited | Paused: $paused_rate_limit"
+  if (( score_count > 0 )); then
+    local avg
     avg=$(echo "scale=1; $score_sum / $score_count" | bc 2>/dev/null || echo "N/A")
     echo "Average score: $avg/5 ($score_count scored)"
+  fi
+  echo ""
+
+  # Format the per-job table:
+  # Columns: ID, Status, Report, Score, Target (URL or Error Message)
+  printf "%-4s | %-17s | %-6s | %-5s | %-40s\n" "ID" "Status" "Report" "Score" "URL / Error"
+  printf "%-4s+%-19s+%-8s+%-7s+%-42s\n" "----" "-------------------" "--------" "-------" "------------------------------------------"
+
+  header=true
+  while IFS=$'\t' read -r sid surl sstatus sstarted scompleted sreport sscore serror sretries || [[ -n "$sid" ]]; do
+    if [[ "$header" == "true" ]]; then
+      header=false
+      continue
+    fi
+    [[ -z "$sid" ]] && continue
+    sstatus="${sstatus%$'\r'}"
+    sscore="${sscore%$'\r'}"
+    serror="${serror%$'\r'}"
+    sreport="${sreport%$'\r'}"
+    local target="$surl"
+    if [[ "$sstatus" == "failed" && -n "$serror" && "$serror" != "-" ]]; then
+      target="Error: $serror"
+    fi
+    # Trim target to fit nicely (e.g. 50 chars)
+    if (( ${#target} > 50 )); then
+      target="${target:0:47}..."
+    fi
+    printf "%-4s | %-17s | %-6s | %-5s | %-50s\n" "$sid" "$sstatus" "$sreport" "$sscore" "$target"
+  done < "$STATE_FILE"
+}
+
+watch_status() {
+  local active_pid=""
+  if [[ -f "$LOCK_FILE" ]]; then
+    active_pid=$(cat "$LOCK_FILE" 2>/dev/null || true)
+  fi
+
+  if [[ -n "$active_pid" ]] && kill -0 "$active_pid" 2>/dev/null; then
+    echo "Watching batch-runner (PID $active_pid)... Press Ctrl+C to stop."
+    while kill -0 "$active_pid" 2>/dev/null; do
+      clear || printf "\033[c"
+      echo "=== Watching Batch Progress (PID $active_pid) ==="
+      print_status_table
+      sleep 2
+    done
+    echo ""
+    echo "=== Batch runner process (PID $active_pid) has finished ==="
+  else
+    echo "No active batch-runner detected."
+  fi
+
+  echo "Showing final status:"
+  print_status_table
+
+  # Chain verify-pipeline.mjs
+  if [[ -f "$PROJECT_DIR/verify-pipeline.mjs" ]]; then
+    echo ""
+    echo "=== Running pipeline verification ==="
+    node "$PROJECT_DIR/verify-pipeline.mjs" || echo "⚠️  Verification found issues"
   fi
 }
 
 # Main
 main() {
   check_prerequisites
+
+  if [[ "$STATUS_ONLY" == "true" ]]; then
+    print_status_table
+    exit 0
+  fi
+
+  if [[ "$WATCH_MODE" == "true" ]]; then
+    watch_status
+    exit 0
+  fi
 
   if [[ "$DRY_RUN" == "false" ]]; then
     acquire_lock
@@ -773,6 +851,8 @@ main() {
 
   # Print summary
   print_summary
+
+  exit 0
 }
 
 main "$@"
