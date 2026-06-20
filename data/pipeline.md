@@ -1466,3 +1466,5 @@
 - [ ] https://jobs.ashbyhq.com/optro/3a7f9ca6-9293-4dca-8546-5458c7f15f0a | Optro | Senior Software Engineer I (Backend), AI Governance
 - [ ] https://jobs.ashbyhq.com/curri/18588740-4f80-4a40-b3c0-fed97517a3c4 | Curri | Senior Software Engineer
 - [ ] https://jobs.lever.co/Anovium/ae468a20-d665-4352-b965-9f49d1f0a528 | Anovium | Lead Full Stack Python/FastApi/React Engineer (TMS)
+
+- [ ] https://jobs.ashbyhq.com/vanta/e54ab450-192f-40f3-8029-37a44f2c09b1 | Vanta | Senior Fullstack Engineer, Emerging Products
