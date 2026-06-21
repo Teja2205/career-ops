@@ -1468,3 +1468,10 @@
 - [ ] https://jobs.lever.co/Anovium/ae468a20-d665-4352-b965-9f49d1f0a528 | Anovium | Lead Full Stack Python/FastApi/React Engineer (TMS)
 
 - [ ] https://jobs.ashbyhq.com/vanta/e54ab450-192f-40f3-8029-37a44f2c09b1 | Vanta | Senior Fullstack Engineer, Emerging Products
+- [ ] https://job-boards.greenhouse.io/alt/jobs/6581551003 | Alt | Senior Fullstack Engineer (US Remote)
+- [ ] https://job-boards.greenhouse.io/implicit/jobs/7385213 | Implicit | Frontend Engineer (US-Based, Remote, Part-Time)
+- [ ] https://job-boards.greenhouse.io/sustainabletalent/jobs/4674558005 | Sustainable Talent (Nvidia) | AI Security Engineer
+- [ ] https://jobs.ashbyhq.com/pragmatike/4d7a1af0-d7ff-478b-9648-c47ab00f01a6 | Pragmatike | Fullstack Software Engineer (TypeScript, Hybrid LA)
+- [ ] https://jobs.ashbyhq.com/scale%20army%20careers/f4b75d38-0337-4b00-a59d-9ebd174c16e2 | Scale Army | Senior Fullstack Engineer (Fully Remote)
+- [ ] https://jobs.ashbyhq.com/projectsbyif/c954640d-c69e-4858-98c4-c28b9bbc990c | Projects by IF | Freelance Gen AI / LLM Engineer
+- [ ] https://jobs.lever.co/policyme/98b4ecb9-93c5-43cd-9d29-977232e343a1 | PolicyMe | Software Engineer (Remote)
