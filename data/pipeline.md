@@ -1475,3 +1475,5 @@
 - [ ] https://jobs.ashbyhq.com/scale%20army%20careers/f4b75d38-0337-4b00-a59d-9ebd174c16e2 | Scale Army | Senior Fullstack Engineer (Fully Remote)
 - [ ] https://jobs.ashbyhq.com/projectsbyif/c954640d-c69e-4858-98c4-c28b9bbc990c | Projects by IF | Freelance Gen AI / LLM Engineer
 - [ ] https://jobs.lever.co/policyme/98b4ecb9-93c5-43cd-9d29-977232e343a1 | PolicyMe | Software Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/connectwise/jobs/4696322005 | ConnectWise | Senior Front-End Engineer II (ReactJS)
+- [ ] https://jobs.lever.co/shippo/d1a94456-8156-4c56-9816-f257073c3f58 | Shippo | Software Engineer III, FullStack, QuickPack
