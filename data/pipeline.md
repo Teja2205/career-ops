@@ -1477,3 +1477,6 @@
 - [ ] https://jobs.lever.co/policyme/98b4ecb9-93c5-43cd-9d29-977232e343a1 | PolicyMe | Software Engineer (Remote)
 - [ ] https://job-boards.greenhouse.io/connectwise/jobs/4696322005 | ConnectWise | Senior Front-End Engineer II (ReactJS)
 - [ ] https://jobs.lever.co/shippo/d1a94456-8156-4c56-9816-f257073c3f58 | Shippo | Software Engineer III, FullStack, QuickPack
+- [ ] https://jobs.ashbyhq.com/lavendo/d4eb3723-23ec-4d5d-a152-f34949e1621c | Lavendo | Software Engineer, Data Privacy (Remote)
+- [ ] https://jobs.lever.co/smart-working-solutions/415d2411-b850-4715-8461-e69abe44f10a | Smart Working Solutions | Senior Product Engineer (Remote)
+- [ ] https://jobs.lever.co/luxurypresence/b6cc6269-1a3c-4093-99fe-3841fdf3b533 | Luxury Presence | Staff Software Engineer - AI Website Builder (Remote US)
