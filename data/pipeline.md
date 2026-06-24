@@ -1480,3 +1480,5 @@
 - [ ] https://jobs.ashbyhq.com/lavendo/d4eb3723-23ec-4d5d-a152-f34949e1621c | Lavendo | Software Engineer, Data Privacy (Remote)
 - [ ] https://jobs.lever.co/smart-working-solutions/415d2411-b850-4715-8461-e69abe44f10a | Smart Working Solutions | Senior Product Engineer (Remote)
 - [ ] https://jobs.lever.co/luxurypresence/b6cc6269-1a3c-4093-99fe-3841fdf3b533 | Luxury Presence | Staff Software Engineer - AI Website Builder (Remote US)
+- [ ] https://jobs.ashbyhq.com/agility.io/2320547b-218a-4730-8c43-b55a85819c6b | Agility IO | Senior Full Stack Developer
+- [ ] https://jobs.ashbyhq.com/assembledhq/dcc6f951-237d-451e-a5ea-4c503ce9ab00 | Assembled | Frontend Engineer
