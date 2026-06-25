@@ -1482,3 +1482,8 @@
 - [ ] https://jobs.lever.co/luxurypresence/b6cc6269-1a3c-4093-99fe-3841fdf3b533 | Luxury Presence | Staff Software Engineer - AI Website Builder (Remote US)
 - [ ] https://jobs.ashbyhq.com/agility.io/2320547b-218a-4730-8c43-b55a85819c6b | Agility IO | Senior Full Stack Developer
 - [ ] https://jobs.ashbyhq.com/assembledhq/dcc6f951-237d-451e-a5ea-4c503ce9ab00 | Assembled | Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5234351008 | Impiricus | Senior Software Engineer (Full-stack)
+- [ ] https://jobs.ashbyhq.com/truelogic/271967a4-9814-462c-9ced-6e2873da9dec | Truelogic | Senior Front-End Engineer (Next.js/React) - Real Estate
+- [ ] https://jobs.ashbyhq.com/vendelux/e68b278e-9133-4811-a472-5bf0d700eec3 | Vendelux | Senior AI Engineer
+- [ ] https://jobs.lever.co/thinkahead/29dace68-0327-4689-a9d6-fad54472b185 | AHEAD | Full Stack Engineer
+- [ ] https://www.workatastartup.com/jobs/84710 | MixRank | Full-Stack Developer - Remote
