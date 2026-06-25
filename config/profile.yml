@@ -6,7 +6,7 @@ candidate:
   email: "gteja9639@gmail.com"
   phone: "+1-502-431-6633"
   location: "Los Angeles, CA"
-  linkedin: "linkedin.com/in/tejag2205"
+  linkedin: "linkedin.com/in/tejag2"
   portfolio_url: "https://licensebot-wocm.onrender.com/"
   github: "https://github.com/Teja2205"
   # canva_resume_design_id: "DAxxxxxxxxx"
@@ -23,10 +23,10 @@ target_roles:
   # Archetypes help the evaluation system score fit
   archetypes:
     - name: "AI/ML Engineer"
-      level: "Mid-level"
+      level: "Mid-Senior"
       fit: "primary"
     - name: "AI Full Stack Developer"
-      level: "Mid-level"
+      level: "Mid-Senior"
       fit: "secondary"
     - name: "Python Full Stack Developer"
       level: "Mid-Senior"
@@ -34,26 +34,26 @@ target_roles:
 
 narrative:
   # Your professional headline (1 line)
-  headline: "AI-driven Full Stack Engineer transforming enterprise systems into intelligent platforms."
+  headline: "Senior AI/Full Stack Engineer @ Cisco — GenAI, RAG & cloud-native systems."
   # Your exit story - what makes you unique
-  exit_story: "5+ years of experience bridging the gap between messy legacy data and RAG-powered knowledge systems, reducing operational friction in healthcare, fintech, and enterprise software."
+  exit_story: "5+ years building RAG systems and the data pipelines under them — turning messy enterprise data in licensing, healthcare, and platform domains into AI that explains itself."
   # Your top 3-5 superpowers
   superpowers:
-    - "Agent-augmented application development (React/Node.js/Python)"
-    - "End-to-end RAG architecture and LLM integration"
-    - "Intelligent ETL orchestration and data quality automation"
-    - "Human-in-the-loop AI system design and drift monitoring"
+    - "RAG architecture and LLM integration (LangChain, Pinecone, Claude/OpenAI)"
+    - "End-to-end data pipelines and real-time streaming (Kafka, Spark, Airflow)"
+    - "Cloud-native microservices on AWS/GCP (Docker, Kubernetes)"
+    - "Human-in-the-loop AI design and drift monitoring"
   # Proof points - projects, articles, case studies with measurable impact
   proof_points:
-    - name: "LicenseBot (Conversational AI Assistant)"
+    - name: "LicenseBot (RAG support assistant — LangChain + Pinecone + Claude)"
       url: "https://licensebot-wocm.onrender.com/"
-      hero_metric: "Reduced ticket escalations by 35%"
-    - name: "ClaimSense (AI Claims Triage)"
+      hero_metric: "Cut manual triage time ~60%, deflected thousands of tickets/month"
+    - name: "DataPulse (data-quality pipeline)"
       url: ""
-      hero_metric: "Reduced manual review time by 45%"
-    - name: "QueryMind (RAG Knowledge System)"
+      hero_metric: "Improved Smart Licensing data accuracy across 10M+ device records"
+    - name: "FraudRadar (real-time fraud detection — Kafka + Spark)"
       url: ""
-      hero_metric: "Reduced time-to-answer from hours to seconds"
+      hero_metric: "Processed millions of healthcare claims per day"
   dashboard:
     url: "https://licensebot-wocm.onrender.com/"
 
@@ -114,3 +114,10 @@ exclude_keywords:
   - "Demand Generation"
   - "Maintenance Technician"
   - "Maintenance Manager"
+
+# ── Model Configuration ───────────────────────────────────────────────────────
+models:
+  prescreen:
+    base_url: "https://openrouter.ai/api/v1"
+    model: "qwen/qwen3-8b"
+    api_key_env: "OPENROUTER_API_KEY"
