@@ -53,6 +53,7 @@ function flagVal(name, def) {
 }
 const wantHelp = argv.includes('--help') || argv.includes('-h');
 const score = argv.includes('--score');
+const scrape = argv.includes('--scrape');
 const noFilter = argv.includes('--no-filter');
 const asJson = argv.includes('--json');
 const fileArg = flagVal('--file', null);
@@ -65,6 +66,8 @@ if (wantHelp) {
   node fetch-jobs.mjs --file companies.txt [--score]
 
   --score      fit-score each role with the free prescreen model + rank
+  --scrape     fallback: when no ATS API resolves, scrape the careers page with
+               Playwright (slower, best-effort, lower confidence)
   --no-filter  skip title/location/salary/content filters (show everything)
   --file PATH  read company names from a file (one per line, # comments ok)
   --out PATH   write the markdown doc to PATH
@@ -146,6 +149,114 @@ async function resolveCompany(name) {
   return { jobs: [], ats: null, slug: null, careers_url: null };
 }
 
+// ── Playwright scrape fallback (opt-in, --scrape) ─────────────────────────────
+// Only runs when no Ashby/Greenhouse/Lever API resolved a company. Best-effort:
+// find the careers page via a DuckDuckGo search, then harvest job links from the
+// DOM. Fragile by nature (every site differs) — results are lower confidence and
+// tagged source:'scrape'. Sequential only (project rule: never parallel Playwright).
+
+const ROLE_HINT = /\b(engineer|developer|scientist|architect|designer|manager|analyst|lead|programmer|sre|devops|specialist|consultant)\b/i;
+const JOB_HREF_HINT = /\/(jobs?|careers?|positions?|openings?|vacanc|gh_jid|opportunit)/i;
+const SCRAPE_TIMEOUT_MS = 15_000;
+
+// Unwrap DuckDuckGo's /l/?uddg= redirect to the real destination.
+function unwrapDdg(href) {
+  try {
+    const u = new URL(href, 'https://duckduckgo.com');
+    if ((u.hostname === 'duckduckgo.com' || u.hostname.endsWith('.duckduckgo.com')) && u.pathname === '/l/') {
+      const t = u.searchParams.get('uddg');
+      if (t) return t;
+    }
+  } catch { /* fall through */ }
+  return href;
+}
+
+// Probe a URL: returns it if the page loads with a 2xx/3xx and some content.
+async function urlLoads(page, url) {
+  try {
+    const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: SCRAPE_TIMEOUT_MS });
+    if (resp && resp.status() < 400) return true;
+  } catch { /* dead */ }
+  return false;
+}
+
+// Find a careers-page URL for a company name.
+// 1. If the name IS a URL, use it directly (most reliable).
+// 2. Guess common careers paths on the company's likely domain.
+// 3. Fall back to a DuckDuckGo search (often rate-limited — best effort).
+async function discoverCareersUrl(page, name) {
+  // (1) direct URL
+  if (/^https?:\/\//i.test(name.trim())) return name.trim();
+
+  // (2) domain + common careers paths
+  const slug = name.toLowerCase().replace(/\b(ai|labs?|inc|llc|technologies|technology|the)\b/g, '').replace(/[^a-z0-9]+/g, '');
+  if (slug) {
+    const hosts = [`https://www.${slug}.com`, `https://${slug}.com`, `https://www.${slug}.ai`, `https://${slug}.io`];
+    const paths = ['/careers', '/jobs', '/careers/jobs', '/company/careers', '/about/careers'];
+    for (const h of hosts) {
+      for (const pth of paths) {
+        const cand = h + pth;
+        if (await urlLoads(page, cand)) return cand;
+      }
+    }
+  }
+
+  // (3) DuckDuckGo fallback (markup varies; try a couple of selectors)
+  try {
+    await page.goto(`https://html.duckduckgo.com/html/?q=${encodeURIComponent(`"${name}" careers jobs`)}`,
+      { waitUntil: 'domcontentloaded', timeout: SCRAPE_TIMEOUT_MS });
+    const hrefs = await page.evaluate(() =>
+      Array.from(document.querySelectorAll('a.result__a, .result__title a, a[href*="uddg="]'))
+        .map(a => a.getAttribute('href')).filter(Boolean));
+    for (const raw of hrefs) {
+      const url = unwrapDdg(raw);
+      try {
+        const host = new URL(url).hostname;
+        if (/duckduckgo|linkedin|indeed|glassdoor|wikipedia|youtube|facebook/i.test(host)) continue;
+        return url;
+      } catch { continue; }
+    }
+  } catch { /* no result */ }
+  return null;
+}
+
+// Harvest plausible job postings from a careers page's anchors.
+async function scrapeCareersPage(page, careersUrl, name) {
+  try {
+    await page.goto(careersUrl, { waitUntil: 'domcontentloaded', timeout: SCRAPE_TIMEOUT_MS });
+    // Give SPA boards a moment to render their listing.
+    await page.waitForTimeout(2500);
+    const raw = await page.evaluate(() =>
+      Array.from(document.querySelectorAll('a[href]')).map(a => ({
+        text: (a.textContent || '').replace(/\s+/g, ' ').trim(),
+        href: a.getAttribute('href') || '',
+      })));
+    const seen = new Set();
+    const jobs = [];
+    for (const { text, href } of raw) {
+      if (text.length < 5 || text.length > 90) continue;
+      const looksJob = ROLE_HINT.test(text) || JOB_HREF_HINT.test(href);
+      if (!looksJob) continue;
+      let abs;
+      try { abs = new URL(href, careersUrl).href; } catch { continue; }
+      if (seen.has(abs)) continue;
+      seen.add(abs);
+      jobs.push({ title: text, url: abs, company: name, location: '' });
+    }
+    return jobs;
+  } catch {
+    return [];
+  }
+}
+
+// Scrape one company end-to-end (discover → harvest). Reuses one page.
+async function scrapeCompany(page, name) {
+  const careersUrl = await discoverCareersUrl(page, name);
+  if (!careersUrl) return { jobs: [], careers_url: null };
+  const jobs = await scrapeCareersPage(page, careersUrl, name);
+  return { jobs, careers_url: careersUrl };
+}
+
 // ── Free-model fit scoring (opt-in) ───────────────────────────────────────────
 function prescreen(url) {
   return new Promise((resolve) => {
@@ -177,13 +288,36 @@ async function main() {
   const salaryFilter = noFilter ? () => true : buildSalaryFilter(cfg.salary_filter);
   const contentFilter = noFilter ? () => true : buildContentFilter(cfg.content_filter);
 
+  // Lazily spin up one Playwright page, shared across companies, only if --scrape
+  // is set AND at least one company misses the API path. Sequential reuse.
+  let browser = null;
+  let scrapePage = null;
+  async function getScrapePage() {
+    if (scrapePage) return scrapePage;
+    const { chromium } = await import('playwright');
+    browser = await chromium.launch({ headless: true });
+    scrapePage = await browser.newPage();
+    return scrapePage;
+  }
+
   const report = [];   // { name, ats, careers_url, matched:[job], totalFound, error }
   for (const name of names) {
     if (!asJson) process.stderr.write(`→ ${name} … `);
-    const { jobs, ats, careers_url } = await resolveCompany(name);
+    let { jobs, ats, careers_url } = await resolveCompany(name);
+    if (!ats && scrape) {
+      if (!asJson) process.stderr.write('no API, scraping… ');
+      try {
+        const page = await getScrapePage();
+        const res = await scrapeCompany(page, name);
+        if (res.jobs.length > 0) { jobs = res.jobs; ats = 'scrape'; careers_url = res.careers_url; }
+      } catch (e) {
+        if (!asJson) process.stderr.write(`scrape failed (${e.message}) `);
+      }
+    }
     if (!ats) {
-      report.push({ name, ats: null, careers_url: null, matched: [], totalFound: 0, error: 'no Ashby/Greenhouse/Lever board found' });
-      if (!asJson) process.stderr.write('not found (Ashby/GH/Lever)\n');
+      const why = scrape ? 'no API + scrape found nothing' : 'no Ashby/Greenhouse/Lever board found';
+      report.push({ name, ats: null, careers_url: null, matched: [], totalFound: 0, error: why });
+      if (!asJson) process.stderr.write(`not found${scrape ? '' : ' (Ashby/GH/Lever)'}\n`);
       continue;
     }
     const matched = jobs.filter((j) =>
@@ -195,6 +329,9 @@ async function main() {
     report.push({ name, ats, careers_url, matched, totalFound: jobs.length, error: null });
     if (!asJson) process.stderr.write(`${ats}: ${matched.length}/${jobs.length} match\n`);
   }
+
+  // Scrape browser is no longer needed once harvesting is done.
+  if (browser) { try { await browser.close(); } catch { /* ignore */ } }
 
   // Optional fit scoring (sequential — free model, but be polite to the endpoint).
   if (score) {
