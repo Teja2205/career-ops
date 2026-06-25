@@ -69,6 +69,6 @@ Full-stack Python simulation for optimizing agrivoltaics (solar + agriculture) s
 
 ## EDUCATION
 
-**Master of Science in Computer Science** | University of Missouri at Kansas City | December 2022
+**Master of Science in Computer Science** | University of Missouri–Kansas City | August 2021 – December 2022
 
 **Bachelor of Technology in Computer Science and Engineering** | Jawaharlal Nehru Technological University | May 2020
