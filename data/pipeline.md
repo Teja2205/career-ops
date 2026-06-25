@@ -4,4 +4,723 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
 
+- [ ] https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a | Cohere | Forward Deployed Engineer, Agentic Platform (Korea)
+- [ ] https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Forward Deployed Engineer, Agentic Platform (West Coast)
+- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe)
+- [ ] https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b | Cohere | Forward Deployed Engineer, Infrastructure Specialist
+- [ ] https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64 | Cohere | Staff Software Engineer, Inference Infrastructure
+- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations
+- [ ] https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Public Sector)
+- [ ] https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997 | Cohere | Forward Deployed Engineer, Sovereign AI
+- [ ] https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e | Cohere | Data Annotation Specialist, Software Engineering
+- [ ] https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Europe/Middle East)
+- [ ] https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f | Cohere | Software Engineer, Data Infrastructure
+- [ ] https://jobs.ashbyhq.com/cohere/6d499dbb-8209-4f02-ae57-a1f1efa9ecbb | Cohere | Senior/Staff Software Engineer, Developer Experience
+- [ ] https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff | Cohere | Software Engineer, Adoption
+- [ ] https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee | Cohere | Data Engineer, Data Foundations
+- [ ] https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Forward Deployed Engineer, Agentic Platform (Singapore)
+- [ ] https://jobs.ashbyhq.com/cohere/a5bbd015-65a9-48a1-aab1-b266bdbc9905 | Cohere | Senior Software Engineer, Security Agents
+- [ ] https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066 | Cohere | Software Engineer, Security
+- [ ] https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a | Cohere | Forward Deployed Engineer, Infrastructure Specialist (North America)
+- [ ] https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da | Cohere | Software Engineer - Applied ML - UK Public Sector
+- [ ] https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1 | Cohere | Audio Inference Engineer, Model Efficiency
+- [ ] https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473 | Cohere | Software Engineer, GPU Infrastructure (HPC)
+- [ ] https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c | Cohere | Full-Stack Software Engineer, Inference
+- [ ] https://jobs.ashbyhq.com/cohere/f722247c-291b-44ee-af67-5159b8d5d9b9 | Cohere | Software Engineer, North for Finance
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4648363005 | Scale AI | GenAI Strategic Projects Lead, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4665557005 | Scale AI | Infrastructure Software Engineer, Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413274005 | Scale AI | Machine Learning Engineer, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI | Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625344005 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625341005 | Scale AI | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4481921005 | Scale AI | Mission Software Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4520320005 | Scale AI | Senior AI Infrastructure Engineer, Model Serving Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4689751005 | Scale AI | Senior AI Infrastructure Engineer - Training Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673310005 | Scale AI | Senior Full-Stack Software Engineer, (Forward Deployed), GPS
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654897005 | Scale AI | Senior Software Engineer - Agentic Tooling & Productivity
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4637484005 | Scale AI | Senior Software Engineer, Full-Stack – Scale GP
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4591298005 | Scale AI | Senior Software Engineer, GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674911005 | Scale AI | Senior Software Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4658162005 | Scale AI | Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673771005 | Scale AI | Software Engineer, ARC Team
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4630032005 | Scale AI | Software Engineer (Backend), Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4708221005 | Scale AI | Software Engineer, Data Infrastructure
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536653005 | Scale AI | Software Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4363623005 | Scale AI | Software Engineer, Frontier AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4706566005 | Scale AI | Software Engineer, Identity
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4594879005 | Scale AI | Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4703527005 | Scale AI | Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4655050005 | Scale AI | Software Engineer, Robotics
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4618065005 | Scale AI | Software Engineer, Robotics & Autonomous Systems
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676610005 | Scale AI | Staff Full-Stack Software Engineer, (Forward Deployed), GPS
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673314005 | Scale AI | Staff FullStack Software Engineer, (Forward Deployed), GPS
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4599700005 | Scale AI | Staff Infrastructure Software Engineer, Enterprise AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625337005 | Scale AI | Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4649903005 | Scale AI | Staff Software Engineer, Data Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4569678005 | Scale AI | Staff Software Engineer, Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4529529005 | Scale AI | Staff Software Engineer, Full-Stack - Enterprise Gen AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674913005 | Scale AI | Staff Software Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4282118005 | Scale AI | Strategic Projects Lead, Generative AI
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/5129777007 | Typeface | Principal ML Engineer
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/4827956007 | Typeface | Principal Software Engineer
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/4833257007 | Typeface | Staff ML Engineer
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/4796599007 | Typeface | Staff Software Engineer, Tech Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076109008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5226862008 | Anthropic | Applied AI Architect, Applied AI (Digital Natives Business)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065835008 | Anthropic | Applied AI Architect, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5204086008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5201715008 | Anthropic | Applied AI Architect Lead, EMEA Commercial
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161728008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227643008 | Anthropic | Applied AI Architect, Public Sector
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5228931008 | Anthropic | Applied AI Architect (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140403008 | Anthropic | Applied AI Architect, State and Local Government
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227641008 | Anthropic | Applied AI Security Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Data Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5184077008 | Anthropic | Head of ANZ, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic | Model Performance Software Engineer, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186965008 | Anthropic | Product Support Specialist (Singapore - Weekend Coverage)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | Anthropic | Security Software Engineer, Detection & Response Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174743008 | Anthropic | Senior Software Engineer, Full-stack
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4641822008 | Anthropic | Senior Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | Anthropic | Senior+ Software Engineer, Research Tools
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5204401008 | Anthropic | Senior Staff Software Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5134895008 | Anthropic | Senior Staff Software Engineer, API
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5211305008 | Anthropic | Senior Staff+ Software Engineer, Kubernetes Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5203868008 | Anthropic | Senior Staff+ Software Engineer, Node Infra
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123039008 | Anthropic | Software Engineer, Account Abuse
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | Anthropic | Software Engineer, Cybersecurity Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | Anthropic | Software Engineer, Human Data Interface
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5270442008 | Anthropic | Software Engineer, Identity & Access Controls
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238606008 | Anthropic | Software Engineer, RL Data
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951844008 | Anthropic | Software Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5251671008 | Anthropic | Software Engineer, Safeguards Evals
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074908008 | Anthropic | Software Engineer, Safeguards Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5245851008 | Anthropic | Staff + Senior Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111745008 | Anthropic | Staff + Senior Software Engineer, Inference Deployment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4673416008 | Anthropic | Staff Software Engineer, Accessibility
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5113224008 | Anthropic | Staff Software Engineer, AI Reliability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174755008 | Anthropic | Staff+ Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146298008 | Anthropic | Staff Software Engineer, Billing Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5281592008 | Anthropic | Staff+ Software Engineer, Caching
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | Staff Software Engineer, Claude.ai
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065894008 | Anthropic | Staff+ Software Engineer, Claude App Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5151069008 | Anthropic | Staff+ Software Engineer, Databases
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5110511008 | Anthropic | Staff+ Software Engineer, Developer Productivity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5271428008 | Anthropic | Staff Software Engineer, Developer Productivity (CI/CD) - Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5271426008 | Anthropic | Staff Software Engineer, Developer Productivity (Dev Environments) - Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174747008 | Anthropic | Staff+ Software Engineer, Full-stack
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250091008 | Anthropic | Staff+ Software Engineer, GRC Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5150472008 | Anthropic | Staff Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5257650008 | Anthropic | Staff+ Software Engineer, Inference Runtime
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5237762008 | Anthropic | Staff Software Engineer, Infrastructure Asset Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5119468008 | Anthropic | Staff Software Engineer, People Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157847008 | Anthropic | Staff+ Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159146008 | Anthropic | Staff+ Software Engineer, Privacy
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205704008 | Anthropic | Staff+ Software Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5231496008 | Anthropic | Staff + Sr. Software Engineer, Cloud Inference
+- [ ] https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d | Cognition AI | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/cognition/9ef920ff-de3d-4b5d-8733-f3bf92763b0f | Cognition AI | Data Engineer
+- [ ] https://jobs.ashbyhq.com/cognition/b3e47b13-df84-4ed3-a70b-f4d20cec6f82 | Cognition AI | Forward Deployed Marketer
+- [ ] https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search)
+- [ ] https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4 | Perplexity AI | Member of Technical Staff (Software Engineer, Monetization)
+- [ ] https://jobs.ashbyhq.com/perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea | Perplexity AI | Member of Technical Staff (Software Engineer, Cloud Infrastructure)
+- [ ] https://jobs.ashbyhq.com/perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6 | Perplexity AI | Member of Technical Staff (Software Engineer, Data Platform)
+- [ ] https://jobs.ashbyhq.com/perplexity/33a48d64-ba8c-444f-a41d-9c77c6c00320 | Perplexity AI | Member of Technical Staff (Software Engineer, Enterprise Experience)
+- [ ] https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity AI | Member of Technical Staff (Software Engineer, Applied AI)
+- [ ] https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516 | Perplexity AI | Member of Technical Staff (Software Engineer, API Platform)
+- [ ] https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8 | Perplexity AI | Member of Technical Staff (Software Engineer, Computer)
+- [ ] https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315 | Perplexity AI | Member of Technical Staff (AI Infrastructure Engineer)
+- [ ] https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03 | Perplexity AI | Member of Technical Staff (Software Engineer, Security)
+- [ ] https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Multimodal)
+- [ ] https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc | Perplexity AI | Member of Technical Staff (Software Engineer, Data Flywheel)
+- [ ] https://jobs.ashbyhq.com/perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b | Perplexity AI | Member of Technical Staff (Software Engineer, Backend Platform)
+- [ ] https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892 | Perplexity AI | Member of Technical Staff (Software Engineer, Agent Capabilities)
+- [ ] https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef | Perplexity AI | Member of Technical Staff (AI Inference Engineer)
+- [ ] https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184 | Perplexity AI | Member of Technical Staff (Backend Software Engineer, Search Crawler)
+- [ ] https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity AI | Member of Technical Staff (Forward Deployed Engineer, Applied AI)
+- [ ] https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91 | Perplexity AI | Member of Technical Staff (ML Engineer, Recommendations & User Modeling)
+- [ ] https://jobs.ashbyhq.com/perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf | Perplexity AI | Member of Technical Staff (Software Engineer, Storage Platform)
+- [ ] https://jobs.ashbyhq.com/perplexity/be0bab19-d24e-4233-ab9e-edb6f6a16620 | Perplexity AI | Member of Technical Staff (Software Engineer, Comet and Native Apps)
+- [ ] https://jobs.ashbyhq.com/perplexity/daafcaba-cc39-487a-b941-d7a407753788 | Perplexity AI | Member of Technical Staff (Software Engineer, Connector Platform)
+- [ ] https://jobs.ashbyhq.com/perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d | Perplexity AI | Member of Technical Staff (Software Engineer, Computer Growth)
+- [ ] https://jobs.ashbyhq.com/perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458 | Perplexity AI | Member of Technical Staff (Software Engineer, Acceleration)
+- [ ] https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f | Sierra AI | Forward Deployed Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9 | Sierra AI | Software Engineer, Voice
+- [ ] https://jobs.ashbyhq.com/sierra/1162dcd2-b181-49d5-9316-342cd68acbed | Sierra AI | Software Engineer, Agent (Thai Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1 | Sierra AI | Software Engineer, Security
+- [ ] https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c | Sierra AI | Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3 | Sierra AI | Forward Deployed Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra AI | Software Engineer, Agent (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324 | Sierra AI | Software Engineer, Agent Data Platform
+- [ ] https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88 | Sierra AI | Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f | Sierra AI | Software Engineer, Insights
+- [ ] https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c | Sierra AI | Software Engineer, Payments Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07 | Sierra AI | Software Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra AI | Software Engineer, Agent (French speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra AI | Software Engineer, Agent (German speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra AI | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d | Sierra AI | Software Engineer, Agent (Dutch speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra AI | Software Engineer, Agent (Cantonese Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/b3829801-8e0b-4047-8cd8-8a51c87028fd | Sierra AI | Software Engineer, Agent Architecture
+- [ ] https://jobs.ashbyhq.com/sierra/b8a89b9a-70a1-4e47-874c-41542d1bc60a | Sierra AI | Software Engineer, Agent (Korean Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra AI | Software Engineer, Agent (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/d77487f9-bab3-44c6-be18-744e7125c8b3 | Sierra AI | Software Engineer, Platform
+- [ ] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra AI | Software Engineer, Agent - Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/f4319197-e898-4756-a7f2-af884fe1e0c7 | Sierra AI | Software Engineer, Intelligence
+- [ ] https://jobs.ashbyhq.com/sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra AI | Software Engineer, Agent (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/fc6eaada-479c-4ff6-be79-7e267b9ed2b4 | Sierra AI | Software Engineer, Identity & Enterprise Platform
+- [ ] https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e | LangChain | Senior Software Engineer, SmithDB
+- [ ] https://jobs.ashbyhq.com/langchain/6f32998b-111c-447b-b593-2b64c7de245d | LangChain | Senior Backend Engineer, Enterprise Readiness & Identity
+- [ ] https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d | LangChain | Python OSS Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/7b4aad6c-db46-489d-8426-72217e2923f2 | LangChain | Senior Fullstack Engineer, Growth & Monetization
+- [ ] https://jobs.ashbyhq.com/langchain/a03b3e54-495d-4960-aee7-0194a3cef57d | LangChain | Senior Fullstack Engineer, AI Observability & Evals Platform
+- [ ] https://jobs.ashbyhq.com/langchain/cb61f821-d8c4-4ec5-940d-3fd83be63a5f | LangChain | Senior Backend Engineer, LangSmith Deployments
+- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principal Software Engineer, AI Observability & Evals Platform
+- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer, AI Observability & Evals Platform (LangSmith)
+- [ ] https://jobs.ashbyhq.com/flowengineering/0fc59da9-d62e-48d6-9f4e-4b334aee2fdd | Flow Engineering | Software Engineer, Infrastructure – San Francisco
+- [ ] https://jobs.ashbyhq.com/flowengineering/3710c990-5fd6-4d3f-be4d-0ca474329f15 | Flow Engineering | Staff Software Engineer, AI – San Francisco
+- [ ] https://jobs.ashbyhq.com/flowengineering/6ed592d7-0314-455c-856c-20876910d74e | Flow Engineering | Senior Software Engineer, AI – San Francisco
+- [ ] https://jobs.ashbyhq.com/flowengineering/78a32a94-f09b-4005-91cd-21f7d0f517cf | Flow Engineering | Software Engineer- London
+- [ ] https://jobs.ashbyhq.com/flowengineering/790f1dfd-d408-49ff-9a65-0e5b73414263 | Flow Engineering | Staff Software Engineer, Full Stack – San Francisco
+- [ ] https://jobs.ashbyhq.com/flowengineering/ed05415f-c172-4851-9392-1d97e0fd2968 | Flow Engineering | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/flowengineering/f1cb1247-bbd8-49b2-b380-57f195022c7b | Flow Engineering | Senior Software Engineer, Full Stack – San Francisco
+- [ ] https://jobs.ashbyhq.com/letta/5375a3dc-c886-41c0-a2de-08d0412204d8 | Letta | Software Engineer, Agent Harness
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer (TypeScript & Agentic AI)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | Forward Deployed AI Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ
+- [ ] https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7 | Modal Labs | Forward Deployed Engineer - ML
+- [ ] https://jobs.ashbyhq.com/modal/265d6127-dd34-433b-819a-1f935572c7d8 | Modal Labs | Member of Technical Staff - Python SDK
+- [ ] https://jobs.ashbyhq.com/modal/c85a3e3d-f1a5-479d-91e3-9e0b34279a82 | Modal Labs | Forward Deployed Engineer - Systems
+- [ ] https://jobs.ashbyhq.com/anyscale/02ed9406-2b43-4009-a80f-2dd94e2f6e96 | Anyscale | Staff Software Engineer, Platform Infrastructure (Foundations)
+- [ ] https://jobs.ashbyhq.com/anyscale/1cf38233-8aa0-47f8-9d85-65ce27bc3047 | Anyscale | Distributed LLM Inference Engineer
+- [ ] https://jobs.ashbyhq.com/anyscale/2d76cfa2-f857-42b2-9c74-c07beca01458 | Anyscale | Software Engineer, Ray Data
+- [ ] https://jobs.ashbyhq.com/anyscale/316cf655-f3f1-40c2-823f-34f1fce54fdc | Anyscale | Software Engineer, Platform Infrastructure (Foundations)
+- [ ] https://jobs.ashbyhq.com/anyscale/52167dfd-c1b0-4e8a-b64c-b5710e176535 | Anyscale | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882 | Anyscale | Software Engineer (Ray Core)
+- [ ] https://jobs.ashbyhq.com/anyscale/8b29c5e5-d56f-4c52-8887-a6a1827cf042 | Anyscale | Software Engineer, Ray Core
+- [ ] https://jobs.ashbyhq.com/anyscale/c35b6d34-710d-4943-85b6-2073ff4eecd1 | Anyscale | Software Engineer, Ray Serve
+- [ ] https://jobs.ashbyhq.com/cartesia/154b001a-f818-4798-a802-58057c47cb03 | Cartesia | Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India)
+- [ ] https://jobs.ashbyhq.com/cartesia/bd9d6688-5486-470f-a273-20874a44f107 | Cartesia | Inference Engineer
+- [ ] https://jobs.ashbyhq.com/cartesia/cdf453af-7035-45f6-a93c-5cacd332d31e | Cartesia | Software Engineer, AI & Developer Acceleration
+- [ ] https://jobs.ashbyhq.com/cartesia/d45f51e9-e7eb-42c5-b986-d3b5d50454c5 | Cartesia | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/5101187007 | Labelbox | Forward Deployed Engineer, RL Environments
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/5101375007 | Labelbox | Forward Deployed Research Scientist
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/5159327007 | Labelbox | Staff Software Engineer, AI Data Platform
+- [ ] https://jobs.ashbyhq.com/braintrust/7d0a5b62-a554-48f0-b2f7-8cbac0e98ae6 | Braintrust | Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/braintrust/8b9cfa26-627f-442c-a358-783b0e4ef930 | Braintrust | Software Engineer, Systems
+- [ ] https://jobs.ashbyhq.com/braintrust/9728653e-49b9-4f5c-b6cd-7dbc6a6d5fcc | Braintrust | Software Engineer, Backend
+- [ ] https://jobs.ashbyhq.com/braintrust/b4ea5780-8b8c-4969-a824-416a70de23c2 | Braintrust | Software Engineer, Developer Experience
+- [ ] https://jobs.ashbyhq.com/braintrust/ba4d6676-f65c-42c9-84ee-285f2da15e0d | Braintrust | Open Source Engineer - Python
+- [ ] https://jobs.ashbyhq.com/braintrust/d1756ad8-be7c-4acd-961e-7e81e4f69024 | Braintrust | Data Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | Machine Learning Engineer, LLM Evals & Observability
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4616929005 | Glean | Software Engineer, Agentic Runtime
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005 | Glean | Software Engineer, AI & Security
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006731005 | Glean | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4704106005 | Glean | Software Engineer, Compute Infrastructure
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4638008005 | Glean | Software Engineer, Context Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4637208005 | Glean | Software Engineer, Data Foundations
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005 | Glean | Software Engineer, Developer Productivity
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005 | Glean | Software Engineer, Fullstack
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 | Glean | Software Engineer, Machine Learning
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005 | Glean | Software Engineer, Product Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4610281005 | Glean | Software Engineer, Storage
+- [ ] https://jobs.ashbyhq.com/semgrep/21496f9a-feaf-4c11-a83c-3b46c621b778 | Semgrep | Senior Full Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/semgrep/92b21a3a-fba8-4d71-9f4d-217850689f5f | Semgrep | Senior Backend Software Engineer
+- [ ] https://jobs.ashbyhq.com/semgrep/9700188b-be5d-4de1-abea-4f8397f596c8 | Semgrep | Senior Software Engineer, Growth
+- [ ] https://jobs.ashbyhq.com/semgrep/ba038d3b-ec77-4272-b863-02ee1964bebd | Semgrep | Staff Backend Software Engineer
+- [ ] https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e | Writer | Software engineer, connectors & MCP
+- [ ] https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c | Writer | Software engineer, generative AI
+- [ ] https://jobs.ashbyhq.com/writer/6bbdb7ac-d081-4788-952b-6648be46a3bc | Writer | Software engineer, agents (UK)
+- [ ] https://jobs.ashbyhq.com/writer/8889d06e-efa9-4096-b806-f1626fe060ae | Writer | AI engineer
+- [ ] https://jobs.ashbyhq.com/writer/c2e67893-8cda-4db5-b298-98a48952e90c | Writer | Software engineer, generative AI (UK)
+- [ ] https://jobs.ashbyhq.com/writer/e89c9689-d5ed-4b95-8f3c-b13c6f4c94ba | Writer | AI engineer (UK)
+- [ ] https://jobs.ashbyhq.com/pika/35eb68a1-c26b-4221-80e6-51e21ec8edd9 | Pika Labs | Senior Software Engineer, Backend/Infra
+- [ ] https://jobs.ashbyhq.com/pika/d3993c91-4dd5-4868-8108-4e9b78133e7b | Pika Labs | Multimodal LLM Researcher (MLLM)
+- [ ] https://jobs.ashbyhq.com/pika/fb9e43d7-36b8-46c7-93cd-2b7504e30363 | Pika Labs | Senior Software Engineer, Inference
+- [ ] https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f | ElevenLabs | Forward Deployed Engineer - Software Engineer - Singapore
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03 | ElevenLabs | Full-Stack Growth Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192 | ElevenLabs | Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e53c5be6-5c1a-4870-ad85-8397a1f201de | ElevenLabs | Data Engineer
+- [ ] https://jobs.ashbyhq.com/railway/25d8444a-47dc-4084-ae56-29a0f0b19b74 | Railway | Senior Platform Engineer: Storage
+- [ ] https://jobs.ashbyhq.com/railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d | Railway | Senior Full-Stack Engineer - Product
+- [ ] https://jobs.ashbyhq.com/suno/16c7d5bf-e43c-4319-bdfc-6a7dbdf58e43 | Suno | Staff Software Engineer - Billing & Subscription
+- [ ] https://jobs.ashbyhq.com/suno/56372310-e8cd-4406-b843-394128dac97d | Suno | Software Engineer, Growth
+- [ ] https://jobs.ashbyhq.com/suno/6f80dd7b-ab96-43b2-aaea-28c43d497232 | Suno | Senior / Staff Software Engineer, Data Infrastructure
+- [ ] https://jobs.ashbyhq.com/suno/9e6da9b6-8562-4d9e-ae8e-c3319f76bdba | Suno | Staff / Senior Software Engineer, Platform Teams
+- [ ] https://jobs.ashbyhq.com/suno/adb5c5ef-5897-4acb-8014-0a7f162742d8 | Suno | Staff / Senior Software Engineer, Product Teams
+- [ ] https://jobs.ashbyhq.com/suno/bed3b0f7-a5f0-495e-9b62-16503adbcf1a | Suno | Software Engineer, Data Platform
+- [ ] https://jobs.ashbyhq.com/suno/dba162e0-97f1-4efe-b4ff-c7d671a01b11 | Suno | Software Engineer, Trust & Safety
+- [ ] https://jobs.ashbyhq.com/suno/f8fd9d3e-4ef7-471a-9205-9f7ca5c36c81 | Suno | Software Engineer, Fullstack, Pro-Create
+- [ ] https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f | Supabase | Software Engineer: IaC Platform Experience
+- [ ] https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d | Supabase | Software Engineer - Auth
+- [ ] https://jobs.ashbyhq.com/GPTZero/12360bb7-8136-43e8-97f7-7d882e796e03 | GPTZero | Sr. Software Engineer, Growth
+- [ ] https://jobs.ashbyhq.com/GPTZero/9e23e2df-d15d-4bf5-a841-ced573fb8511 | GPTZero | LLM Engineer (GenAI, NYC)
+- [ ] https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e | LiveKit | Senior Software Engineer, Media Backend
+- [ ] https://jobs.ashbyhq.com/livekit/f152aa9f-981c-4661-99d3-6837654b9c8b | LiveKit | Senior Software Engineer, Agent Platform
+- [ ] https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347 | Cursor | Software Engineer, Developer Productivity
+- [ ] https://jobs.ashbyhq.com/cursor/0863d184-1b2f-42cd-9fca-37fa90efe2eb | Cursor | Software Engineer, Services Platform
+- [ ] https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483 | Cursor | Forward Deployed Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14 | Cursor | Software Engineer, ML Research
+- [ ] https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74 | Cursor | Software Engineer, Growth
+- [ ] https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313 | Cursor | Software Engineer, User Operations
+- [ ] https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693 | Cursor | Software Engineer, Agent Evaluation and Quality
+- [ ] https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011 | Cursor | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769 | Cursor | Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7 | Cursor | Software Engineer, Generalist
+- [ ] https://jobs.ashbyhq.com/cursor/3e35f887-04cb-45c7-9f49-63c9addf1c74 | Cursor | GTM Systems Support and Agentic Engineer
+- [ ] https://jobs.ashbyhq.com/cursor/45c815b0-5100-4934-8558-0e750b8aed79 | Cursor | Software Engineer, Model Routing & Inference
+- [ ] https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e | Cursor | Software Engineer, Billing
+- [ ] https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2 | Cursor | Software Engineer, Storage
+- [ ] https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991 | Cursor | Software Engineer, Enterprise
+- [ ] https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511 | Cursor | Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d | Cursor | Software Engineer, Agent Harness
+- [ ] https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45 | Cursor | Software Engineer, Core Services
+- [ ] https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a | Cursor | Software Engineer, Bugbot
+- [ ] https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc | Cursor | Software Engineer, ML Data Systems
+- [ ] https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd | Cursor | Software Engineer, Security
+- [ ] https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7 | Cursor | Software Engineer, Enterprise Platform
+- [ ] https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9 | Cursor | Software Engineer, ML Infrastructure
+- [ ] https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64 | Cursor | Software Engineer, Client Infrastructure
+- [ ] https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c | Harvey AI | Staff Software Engineer, AI Platform
+- [ ] https://jobs.ashbyhq.com/harvey/01f31ece-f3fe-4991-b6fb-b59f21faa8e9 | Harvey AI | Staff Software Engineer, Full Stack
+- [ ] https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97 | Harvey AI | Senior Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc | Harvey AI | Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043 | Harvey AI | Senior Software Engineer, Backend - NYC
+- [ ] https://jobs.ashbyhq.com/harvey/10900071-f75f-49da-bff7-7e9db5e9b1f9 | Harvey AI | Senior Software Engineer, Full Stack - NYC
+- [ ] https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1 | Harvey AI | Senior Software Engineer, Backend
+- [ ] https://jobs.ashbyhq.com/harvey/14852d91-3ba5-46c9-8eca-311b8feb09c0 | Harvey AI | Staff Software Engineer - Developer Experience (DevEx)
+- [ ] https://jobs.ashbyhq.com/harvey/24a1df80-c1b7-4e16-b938-1cb3b129463d | Harvey AI | Staff Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/harvey/45a49240-f928-4547-93ec-cd3bf5b0191d | Harvey AI | Staff Software Engineer, Developer Experience
+- [ ] https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f | Harvey AI | Staff Software Engineer, Core Infrastructure
+- [ ] https://jobs.ashbyhq.com/harvey/51fb953a-c494-4a09-8fe2-8d7268b863ec | Harvey AI | Senior Software Engineer, AI Platform
+- [ ] https://jobs.ashbyhq.com/harvey/581cd358-0186-48a6-b76f-c76946c5c7a7 | Harvey AI | Software Engineer
+- [ ] https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133 | Harvey AI | Staff Software Engineer, Backend
+- [ ] https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f | Harvey AI | Senior Software Engineer, Core Infrastructure
+- [ ] https://jobs.ashbyhq.com/harvey/7c71db12-6edb-441e-b76c-847ef6d00527 | Harvey AI | Staff Software Engineer, Backend Platform
+- [ ] https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63 | Harvey AI | Senior Software Engineer, Developer Experience
+- [ ] https://jobs.ashbyhq.com/harvey/8b16bcf7-9255-4859-8416-a7ff921032e6 | Harvey AI | Senior Staff Software Engineer, Backend
+- [ ] https://jobs.ashbyhq.com/harvey/8e513820-55f8-4cbd-8bdd-28a67992469c | Harvey AI | Staff Software Engineer, Full Stack - NYC
+- [ ] https://jobs.ashbyhq.com/harvey/9cc08902-8916-47a8-a849-eec2c67ab3bd | Harvey AI | Staff Software Engineer, Developer Experience
+- [ ] https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402 | Harvey AI | Senior Software Engineer, Full Stack
+- [ ] https://jobs.ashbyhq.com/harvey/b774c88e-5d8f-48d3-aed7-948f2e4292b7 | Harvey AI | Staff Software Engineer, Backend - NYC
+- [ ] https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047 | OpenAI | Forward Deployed Software Engineer - SF
+- [ ] https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer - Munich
+- [ ] https://jobs.ashbyhq.com/openai/059ac93e-3fc9-42e9-a4f4-367c0fd5de14 | OpenAI | Platform Engineer, Forward Deployed Engineering (FDE) -SF
+- [ ] https://jobs.ashbyhq.com/openai/07153f7c-7e8b-4283-a879-cb07a224e083 | OpenAI | Software Engineer, Privacy Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4 | OpenAI | Forward Deployed Software Engineer - Munich
+- [ ] https://jobs.ashbyhq.com/openai/0b212a4a-6709-4da8-b59d-283a9bbf812e | OpenAI | Software Engineer, Ad Formats
+- [ ] https://jobs.ashbyhq.com/openai/0da75470-7e1e-44c3-90df-6f93cf90b968 | OpenAI | Software Engineer, Payments
+- [ ] https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7 | OpenAI | Software Engineer, Private Computing
+- [ ] https://jobs.ashbyhq.com/openai/11c51b12-3ba0-4a7a-a0d2-ed0661324dc3 | OpenAI | Capacity Systems Software Engineer
+- [ ] https://jobs.ashbyhq.com/openai/12342ebb-dcd4-45e2-b875-fc5447fdb7d8 | OpenAI | Software Engineer, Cloud Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/130a5389-83e1-493f-9205-542d3ff53afb | OpenAI | Full Stack Software Engineer, Codex Cloud Apps
+- [ ] https://jobs.ashbyhq.com/openai/1312f55e-ff56-4dab-9bf7-a91e2c157572 | OpenAI | Full-Stack Software Engineer, Compute Foundations
+- [ ] https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b | OpenAI | Software Engineer, RL Training Infra
+- [ ] https://jobs.ashbyhq.com/openai/17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5 | OpenAI | Software Engineer, Productivity - Networking
+- [ ] https://jobs.ashbyhq.com/openai/18a60850-cf8b-4374-a214-ef78b9712deb | OpenAI | CPU Storage Tech Lead
+- [ ] https://jobs.ashbyhq.com/openai/1ba666a4-0be2-4bd0-ad51-39ed7164c241 | OpenAI | Software Engineer, Quality & Developer Tools / Consumer Devices
+- [ ] https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0 | OpenAI | Camera Software Engineer, Consumer Devices
+- [ ] https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d | OpenAI | Software Engineer, Security Observability
+- [ ] https://jobs.ashbyhq.com/openai/1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7 | OpenAI | Software Engineer, Reliability
+- [ ] https://jobs.ashbyhq.com/openai/1fec5ecd-5b7b-45bc-bc8c-ac7184565551 | OpenAI | Software Engineer, Core Network Engineering
+- [ ] https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39 | OpenAI | Software Engineer, Build Systems / CI
+- [ ] https://jobs.ashbyhq.com/openai/20f525b7-f958-4c95-a055-f914ab3adb95 | OpenAI | System Software Engineer, Consumer Devices
+- [ ] https://jobs.ashbyhq.com/openai/21229750-8bd1-4134-a20e-2a8922b88806 | OpenAI | Systems Software Engineer, Management Plane
+- [ ] https://jobs.ashbyhq.com/openai/21bfde35-ffec-42d2-a2c6-8a03dad789d5 | OpenAI | Software Engineer, Core Services
+- [ ] https://jobs.ashbyhq.com/openai/2218158b-f103-4d85-b4f9-e0f2983d6849 | OpenAI | Forward Deployed Engineer - Madrid
+- [ ] https://jobs.ashbyhq.com/openai/23b158fe-709e-4bf5-856c-d10953d32f60 | OpenAI | Software Engineer - Privacy & Compliance
+- [ ] https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe | OpenAI | Senior Data Engineer, Core Experimentation
+- [ ] https://jobs.ashbyhq.com/openai/2b5e8e15-7952-4170-a927-2ad68e318ed6 | OpenAI | Software Engineer, Database Systems
+- [ ] https://jobs.ashbyhq.com/openai/2cba0d45-7a4f-4f38-ac73-3f8633bf0349 | OpenAI | Software Engineer, Developer Productivity
+- [ ] https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4 | OpenAI | Full Stack Software Engineer, Agent Enablement
+- [ ] https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f | OpenAI | Forward Deployed Engineer (FDE) - SF
+- [ ] https://jobs.ashbyhq.com/openai/340c0c22-8d8f-4232-b17e-f642b64c25c3 | OpenAI | Software Engineer, Collective Communication
+- [ ] https://jobs.ashbyhq.com/openai/348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa | OpenAI | Software Engineer, Monetization ML Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/3544fb7b-669b-43e3-8828-94972620bac7 | OpenAI | Software Engineer, Infrastructure, Consumer Devices
+- [ ] https://jobs.ashbyhq.com/openai/39a709f3-6e9e-45e9-94eb-43a1c2aaaeaf | OpenAI | Software Engineer, Computer Use & Frontier Interfaces
+- [ ] https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f | OpenAI | Full Stack Software Engineer, ChatGPT Finances
+- [ ] https://jobs.ashbyhq.com/openai/3c2d1178-777f-4613-a084-75a3d37cd1af | OpenAI | Inference Engineer, Robotics
+- [ ] https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da | OpenAI | Software Engineer, Scaled Abuse
+- [ ] https://jobs.ashbyhq.com/openai/3ce0949d-b028-44f1-983c-446bb7bb1881 | OpenAI | Software Engineer, Ads Monetization, Revenue Platform
+- [ ] https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2 | OpenAI | Backend Software Engineer (Evals)
+- [ ] https://jobs.ashbyhq.com/openai/4070d52e-0263-4cd5-9107-052b4ecc1209 | OpenAI | Software Engineer, API Multicloud
+- [ ] https://jobs.ashbyhq.com/openai/40ed6975-ef61-4807-b748-37c2fa2b76c7 | OpenAI | Software Engineer, Foundations Search
+- [ ] https://jobs.ashbyhq.com/openai/41d9d129-2e58-4ad3-be81-2e5096f4da4d | OpenAI | Software Engineer, Data Acquisition
+- [ ] https://jobs.ashbyhq.com/openai/43174eb6-0ffe-4744-9323-c7969e7ea2e1 | OpenAI | Backend Software Engineer, GTM Innovation
+- [ ] https://jobs.ashbyhq.com/openai/4349f80b-3518-4e4d-b9eb-3e5e9b490cc7 | OpenAI | Software Engineer, Platform Systems
+- [ ] https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180 | OpenAI | Platform Engineer, Forward Deployed Engineering (FDE) - NYC
+- [ ] https://jobs.ashbyhq.com/openai/460b4295-3803-4dda-983d-3b0fea0b0fc4 | OpenAI | Software Engineer, Habitat (Online Data)
+- [ ] https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945 | OpenAI | Software Engineer, Integrity Foundations - London
+- [ ] https://jobs.ashbyhq.com/openai/4a13c764-18c3-4076-ac87-29e05491be07 | OpenAI | Machine Learning Engineer, Distributed Data Systems - Robotics
+- [ ] https://jobs.ashbyhq.com/openai/4c078f82-93b9-427c-8fd8-95de198884b4 | OpenAI | Forward Deployed Engineer - Singapore
+- [ ] https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086 | OpenAI | Software Engineer, Inference - Multi Modal
+- [ ] https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228 | OpenAI | Software Engineer, Research - Human Data
+- [ ] https://jobs.ashbyhq.com/openai/4ef5bf23-cf0e-4b97-a639-11f963c99b88 | OpenAI | Software Engineer, Financial Engineering
+- [ ] https://jobs.ashbyhq.com/openai/51b17595-3a70-43be-a333-3a3952303284 | OpenAI | Forward Deployed Engineer - Tokyo
+- [ ] https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491 | OpenAI | Full Stack Engineer, Intelligence Systems
+- [ ] https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e | OpenAI | Forward Deployed Software Engineer - NYC
+- [ ] https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60 | OpenAI | Forward Deployed Software Engineer - London
+- [ ] https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db | OpenAI | Software Engineer, Identity Infrastructure Engineering
+- [ ] https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c | OpenAI | Applied AI Engineer, Codex Core Agent
+- [ ] https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def | OpenAI | Data Engineer, People Innovation Labs
+- [ ] https://jobs.ashbyhq.com/openai/580f9e7e-20cc-429c-877a-0b5f5233abdd | OpenAI | Forward Deployed Engineer - Stockholm
+- [ ] https://jobs.ashbyhq.com/openai/5bc79fde-2f1d-4bb2-8186-4a700ecff37c | OpenAI | IT Controls Data Engineer
+- [ ] https://jobs.ashbyhq.com/openai/5ebd5f66-75db-4a96-8d39-babc14f1c582 | OpenAI | Full Stack Software Engineer, Codex
+- [ ] https://jobs.ashbyhq.com/openai/60e52bb7-3418-447c-8767-a6bb8e7dedd8 | OpenAI | Software Engineer, Codex App
+- [ ] https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8 | OpenAI | Software Engineer, Infrastructure Reliability
+- [ ] https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f | OpenAI | Forward Deployed Software Engineer - Dublin
+- [ ] https://jobs.ashbyhq.com/openai/633d5574-92e4-4327-9783-7ea831223dea | OpenAI | Software Engineer, Frontier Systems - Power Management
+- [ ] https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e | OpenAI | Full Stack Software Engineer, API Experience
+- [ ] https://jobs.ashbyhq.com/openai/6b47238e-025a-4350-b270-2f3564002fcc | OpenAI | Full Stack Software Engineer, ChatGPT ImageGen
+- [ ] https://jobs.ashbyhq.com/openai/6d403ec9-d5d3-4754-9092-8fd5e659562a | OpenAI | Software Engineer, Productivity - Model Performance
+- [ ] https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883 | OpenAI | Senior Staff Software Engineer, Identity Infrastructure Engineering
+- [ ] https://jobs.ashbyhq.com/openai/73e56947-5d8b-414d-a0ac-9dc9b04e2406 | OpenAI | Senior Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/openai/75420421-5a2a-4d99-8755-9eeff799de95 | OpenAI | Software Engineer, Real Time
+- [ ] https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9 | OpenAI | Software Engineer, Cooperative AI
+- [ ] https://jobs.ashbyhq.com/openai/7649205e-20dc-4bb4-9358-69474a851132 | OpenAI | Software Engineer, Compute - Storage
+- [ ] https://jobs.ashbyhq.com/openai/770d5c3f-4e72-4b49-aec4-d444e8ad7a64 | OpenAI | Software Engineer, Frontier Clusters Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca | OpenAI | Full Stack Software Engineer, Growth
+- [ ] https://jobs.ashbyhq.com/openai/77f87617-4dc5-45af-9b6b-2f408e45a119 | OpenAI | Design Verification, Forward Deployed Engineering
+- [ ] https://jobs.ashbyhq.com/openai/77fbf383-bb97-4006-9b2d-e5de2d6f79d3 | OpenAI | Software Engineer, API SDK
+- [ ] https://jobs.ashbyhq.com/openai/7809102e-e82a-4678-bf7c-221de8acc0d6 | OpenAI | Software Engineer, Fleet Management
+- [ ] https://jobs.ashbyhq.com/openai/7ade7a12-845c-4e3a-af23-c028420bd181 | OpenAI | Software Engineer, Codex Core Agents
+- [ ] https://jobs.ashbyhq.com/openai/7b90b83c-ec28-4e65-a235-6675e37b91c3 | OpenAI | Forward Deployed Software Engineer - Seattle
+- [ ] https://jobs.ashbyhq.com/openai/823a05bf-33fb-4d94-9dd8-571723d27b1a | OpenAI | Senior Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941 | OpenAI | Software Engineer, Model Inference
+- [ ] https://jobs.ashbyhq.com/openai/8427b270-8440-400c-bc18-ff24c4f0f987 | OpenAI | Software Engineer, Full Stack, Revenue Platform
+- [ ] https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b | OpenAI | Software Engineer, Inference - Performance Optimization
+- [ ] https://jobs.ashbyhq.com/openai/87e5f8c3-3337-480a-9db2-e4cef5db909b | OpenAI | Host Systems Software Engineer
+- [ ] https://jobs.ashbyhq.com/openai/88654e7f-4e23-4e75-8e54-18c10d09b093 | OpenAI | Full Stack Software Engineer, Cybersecurity Products
+- [ ] https://jobs.ashbyhq.com/openai/89f58eb2-519f-4a36-8be0-2e594724e1bc | OpenAI | Software Engineer, Codex Enterprise
+- [ ] https://jobs.ashbyhq.com/openai/8a1b804f-b070-4c61-bd3d-cdf39ef9d935 | OpenAI | Software Engineer, Privacy
+- [ ] https://jobs.ashbyhq.com/openai/8e301350-62fb-4251-bc34-c7036498f08c | OpenAI | Backend Engineer, Consumer Devices
+- [ ] https://jobs.ashbyhq.com/openai/9117987a-7a59-449e-a702-89e8d0e8cb60 | OpenAI | Software Engineer, ML Systems & Training Architecture
+- [ ] https://jobs.ashbyhq.com/openai/915a325b-55f6-44e2-8314-34ec0d8bb2c9 | OpenAI | Software Engineer, Web Layer
+- [ ] https://jobs.ashbyhq.com/openai/961f6c58-1572-48a8-bb8b-2bffdf82a5cc | OpenAI | Forward Deployed Software Engineer - Paris
+- [ ] https://jobs.ashbyhq.com/openai/98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2 | OpenAI | Software Engineer, Infrastructure Security
+- [ ] https://jobs.ashbyhq.com/openai/991948b7-0305-4125-bb9a-625f5bc24189 | OpenAI | Software Engineer, Integrity Foundations
+- [ ] https://jobs.ashbyhq.com/openai/9b1b62f5-1400-4672-910a-fda6f975f642 | OpenAI | Full Stack Software Engineer, OpenAI Edu
+- [ ] https://jobs.ashbyhq.com/openai/9b2c68f2-5ce8-44f9-a30c-d8016ac66d86 | OpenAI | Connectivity Software Engineer, Consumer Devices
+- [ ] https://jobs.ashbyhq.com/openai/9b79406c-89a8-49bd-8a38-e72db80996e9 | OpenAI | Software Engineer, Inference – AMD GPU Enablement
+- [ ] https://jobs.ashbyhq.com/openai/9d11e1d8-af1d-413b-873f-d8fac2bdee99 | OpenAI | Full Stack Engineer, Fleet Scheduling
+- [ ] https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f | OpenAI | Software Engineer, Productivity - Inference Runtime
+- [ ] https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93 | OpenAI | Forward Deployed Engineer - Paris
+- [ ] https://jobs.ashbyhq.com/openai/9e39d642-6c78-4c21-bc86-49b1773c933c | OpenAI | Forward Deployed Engineer - Sydney
+- [ ] https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b | OpenAI | Software Engineer, Workload Enablement
+- [ ] https://jobs.ashbyhq.com/openai/9f2e4897-be7d-40a1-804d-37e6608f506b | OpenAI | Technical Deployment Lead, Forward Deployed Engineering (FDE) - NYC
+- [ ] https://jobs.ashbyhq.com/openai/a20b7fc6-6f01-4618-ba35-37b40083f93e | OpenAI | Software Engineer, Caching Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/a2c9f105-b41a-41db-afd8-e70a54b3f21c | OpenAI | Full Stack Software Engineer, GTM Innovation
+- [ ] https://jobs.ashbyhq.com/openai/a4ea79c8-e79f-4126-8c1f-032289024961 | OpenAI | Software Engineer, Monetization Delivery
+- [ ] https://jobs.ashbyhq.com/openai/a58add97-1968-4d5c-b504-ab62bea12df3 | OpenAI | Software Engineer, Fleet Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1 | OpenAI | Software Engineer, Enterprise AI Platform
+- [ ] https://jobs.ashbyhq.com/openai/a6501870-774b-447f-8620-2b78854f9655 | OpenAI | Fullstack Engineer, Safety Engineering
+- [ ] https://jobs.ashbyhq.com/openai/a886ff48-b8a1-4e28-b468-296713a5ad78 | OpenAI | Full-Stack SWE, Data Acquisition (Foundations)
+- [ ] https://jobs.ashbyhq.com/openai/a90cdb7c-1c33-4fca-9a96-26c236006f14 | OpenAI | Senior Staff Software Engineer, Gov
+- [ ] https://jobs.ashbyhq.com/openai/ace42c6d-8663-4b30-9337-ec70cf071d73 | OpenAI | Principal Software Engineer, Infrastructure Security
+- [ ] https://jobs.ashbyhq.com/openai/ae3a32af-b862-45db-838c-7fb49d4bc27e | OpenAI | Senior Software Engineer, Engineering Acceleration / Consumer Devices
+- [ ] https://jobs.ashbyhq.com/openai/aeff784b-ea9a-40c9-aa13-6cb0b5e362cc | OpenAI | Principal Software Engineer, B2B Engineering
+- [ ] https://jobs.ashbyhq.com/openai/b398e1c6-0c32-4464-bb34-6ccda901b688 | OpenAI | Backend Software Engineer, Applied Foundations
+- [ ] https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488 | OpenAI | Forward Deployed Engineer - Dublin
+- [ ] https://jobs.ashbyhq.com/openai/b43339a1-e830-4761-a193-3438f34f9ebb | OpenAI | Forward Deployed Engineer - Seoul
+- [ ] https://jobs.ashbyhq.com/openai/b7a2e30f-c5f6-4710-b53e-64d64bcce189 | OpenAI | Software Engineer, Data Infrastructure - Research
+- [ ] https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b | OpenAI | Software Engineer, Cyber Frontier
+- [ ] https://jobs.ashbyhq.com/openai/b9dee2a0-9bb3-447e-9bce-2b1bed784e5b | OpenAI | Software Engineer, AI Safety
+- [ ] https://jobs.ashbyhq.com/openai/bd190cad-99ec-4fe7-8f8f-de96b5aa5969 | OpenAI | Software Engineer, Backend (Cooperative AI)
+- [ ] https://jobs.ashbyhq.com/openai/c02b35b2-af37-4740-a702-2ed3b5dc3cf1 | OpenAI | Software Engineer, Productivity - Training Runtime
+- [ ] https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a | OpenAI | Software Engineer, Agent Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/c1c8b058-2f0d-4192-8a9e-c21d0f24952c | OpenAI | Software Engineer, Codex Enterprise
+- [ ] https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80 | OpenAI | Full Stack Software Engineer, Health AI
+- [ ] https://jobs.ashbyhq.com/openai/c51e48ce-31ad-4176-a6d5-4a785b44ab73 | OpenAI | Software Engineer, Monetization Product & Platform
+- [ ] https://jobs.ashbyhq.com/openai/c59e2e83-59a6-45bc-82cd-665c6a8a5761 | OpenAI | Data Engineer, Scaling Analytics
+- [ ] https://jobs.ashbyhq.com/openai/c5a99c73-c4c4-4321-a519-e0104dc54747 | OpenAI | Technical Deployment Lead, Forward Deployed Engineering (FDE) - SF
+- [ ] https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1 | OpenAI | Software Engineer, Compute Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1 | OpenAI | Forward Deployed Engineer (FDE) - NYC
+- [ ] https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283 | OpenAI | Forward Deployed Engineer - London
+- [ ] https://jobs.ashbyhq.com/openai/d44c9f70-4aef-45a4-a36a-54fb65663ccb | OpenAI | Research Engineer, Applied AI Engineering
+- [ ] https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e | OpenAI | Software Engineer, Full Stack (People Innovation)
+- [ ] https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842 | OpenAI | Software Engineer, Observability
+- [ ] https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325 | OpenAI | Software Engineer, Distributed Data Systems - Robotics
+- [ ] https://jobs.ashbyhq.com/openai/dc17edac-2993-4318-812a-14864c6f4658 | OpenAI | Forward Deployed Engineer (FDE) - Seattle
+- [ ] https://jobs.ashbyhq.com/openai/deff9215-217d-4392-825e-7788cb8205f3 | OpenAI | Software Engineer, Localization
+- [ ] https://jobs.ashbyhq.com/openai/e0eef869-cd4d-4737-b7af-75c5a1970aeb | OpenAI | Security Researcher, Agentic AI Threats
+- [ ] https://jobs.ashbyhq.com/openai/e1321408-91da-4ef3-8ac6-2e1da1be796f | OpenAI | Software Engineer, System Enablement
+- [ ] https://jobs.ashbyhq.com/openai/e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2 | OpenAI | Software Engineer, Delivery / CD
+- [ ] https://jobs.ashbyhq.com/openai/e44bfa94-0b82-4d0c-b224-02155b76eea9 | OpenAI | Software Engineer, Infrastructure - Analytics Platform
+- [ ] https://jobs.ashbyhq.com/openai/e6981259-c1d0-46de-8376-56bde28cfb10 | OpenAI | Software Engineer, ChatGPT Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/e6d5ca02-f30b-4ac5-a69d-c947efb430f9 | OpenAI | Software Engineer, Research Developer Productivity
+- [ ] https://jobs.ashbyhq.com/openai/e6df42d0-6789-459e-b77b-62d7c5fd78da | OpenAI | Technical Deployment Lead, Forward Deployed Engineering (FDE)- Platform
+- [ ] https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115 | OpenAI | Backend Software Engineer, ChatGPT ImageGen
+- [ ] https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0 | OpenAI | Software Engineer, Kernel Performance & AI Tooling
+- [ ] https://jobs.ashbyhq.com/openai/e9d435e1-1b9e-4715-84ce-75f372e5559c | OpenAI | Forward Deployed Engineer - UAE
+- [ ] https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff | OpenAI | Machine Learning Engineer, Integrity
+- [ ] https://jobs.ashbyhq.com/openai/f381868f-7b0a-4b22-b215-71c7f5c1b498 | OpenAI | Software Engineer, Post-Training Research
+- [ ] https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b | OpenAI | Software Engineer, Accelerators
+- [ ] https://jobs.ashbyhq.com/openai/f3ddd41c-541f-485e-90d6-86c26e018e9f | OpenAI | Tokens-as-a-Service (Taas) Software Engineer
+- [ ] https://jobs.ashbyhq.com/openai/f4e8a433-ae96-44ac-a7f9-97070335395f | OpenAI | Software Engineer, Youth Well-Being
+- [ ] https://jobs.ashbyhq.com/openai/f58cb1eb-9642-4a4d-a14d-d7a57d583a11 | OpenAI | Software Engineer, GPU Infrastructure - HPC
+- [ ] https://jobs.ashbyhq.com/openai/f6278b60-dd42-4aa8-a3cd-c105f75ae8ae | OpenAI | Software Engineer, Cloud Agents
+- [ ] https://jobs.ashbyhq.com/openai/f763c6b3-5167-4a67-b691-4c3fa2c44156 | OpenAI | Software Engineer, Data Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/f873dd71-46c9-4be1-8580-bc67c56b4cad | OpenAI | Full-Stack Software Engineer, Applied Foundations
+- [ ] https://jobs.ashbyhq.com/openai/fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca | OpenAI | Robotics Software Engineer
+- [ ] https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4 | OpenAI | Data Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6093255004 | Vercel | Security Software Engineer, IAM
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5788954004 | Vercel | Senior Software Engineer, Trust & Safety
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5179639004 | Vercel | Software Engineer, CDN
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5473266004 | Vercel | Software Engineer, CDN Security
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5551619004 | Vercel | Software Engineer, Compute
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5633880004 | Vercel | Software Engineer, Deployment Infrastructure
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6098390004 | Vercel | Software Engineer, eve
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5613601004 | Vercel | Software Engineer, Growth
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5661583004 | Vercel | Software Engineer, Lua
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5993753004 | Vercel | Software Engineer, Next.js
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5658009004 | ClickHouse | Cloud Software Engineer - Observability Platform
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5755090004 | ClickHouse | Core Software Engineer (C++) - Remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5395374004 | ClickHouse | Full Stack Software Engineer - Billing Team
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5587666004 | ClickHouse | Full Stack Software Engineer - Control Plane
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6001255004 | ClickHouse | Principal Software Engineer - Postgres
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5838221004 | ClickHouse | Senior Backend Engineer - ClickStack
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer - Infrastructure (ClickPipes)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5993847004 | ClickHouse | Senior Data Engineer - Dbt, CI/CD
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5748778004 | ClickHouse | Senior Full Stack Engineer - ClickStack
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5777061004 | ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819674004 | ClickHouse | Senior Software Engineer - Cloud Infrastructure
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6018899004 | ClickHouse | Senior Software Engineer - Identity & Authorization Platform
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6000804004 | ClickHouse | Senior Software Engineer - Java Streaming - Connectors
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5973223004 | ClickHouse | Senior Software Engineer - JVM Language Clients
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5989605004 | ClickHouse | Senior Software Engineer - Postgres
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5842100004 | ClickHouse | Senior Software Engineer - Python and Data Ecosystem
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5765672004 | ClickHouse | Software Engineer - Database Integrations
+- [ ] https://jobs.ashbyhq.com/openrouter/0c6bbb7f-ea09-45b6-b185-8a17a8de214d | OpenRouter | Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3 | OpenRouter | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004 | Grafana Labs | Senior AI Engineer / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004 | Grafana Labs | Senior AI Engineer / US / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6009283004 | Grafana Labs | Senior Backend Engineer - Alerting / Germany / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6009285004 | Grafana Labs | Senior Backend Engineer - Alerting / Ireland / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6009284004 | Grafana Labs | Senior Backend Engineer - Alerting / Spain / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6009286004 | Grafana Labs | Senior Backend Engineer - Alerting / Sweden / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6009287004 | Grafana Labs | Senior Backend Engineer - Alerting / UK / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5807088004 | Grafana Labs | Senior Backend Engineer - Databases Pyroscope / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5807096004 | Grafana Labs | Senior Backend Engineer - Databases Pyroscope / US / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6019652004 | Grafana Labs | Senior Backend Engineer - Grafana Backend Services / Germany / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6019651004 | Grafana Labs | Senior Backend Engineer - Grafana Backend Services / Ireland / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6019653004 | Grafana Labs | Senior Backend Engineer - Grafana Backend Services / Spain / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6019654004 | Grafana Labs | Senior Backend Engineer - Grafana Backend Services / Sweden / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6019656004 | Grafana Labs | Senior Backend Engineer - Grafana Backend Services / UK / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5984599004 | Grafana Labs | Senior Software Engineer - Application Core Services / Spain / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6101645004 | Grafana Labs | Senior Software Engineer - Grafana Cloud Observability Provider / Germany / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6101648004 | Grafana Labs | Senior Software Engineer - Grafana Cloud Observability Provider / Spain / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6101649004 | Grafana Labs | Senior Software Engineer - Grafana Cloud Observability Provider / Sweden / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6101597004 | Grafana Labs | Senior Software Engineer - Grafana Cloud Observability Provider / UK / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6099850004 | Grafana Labs | Senior Software Engineer - Grafana Databases, Managed Services / Germany / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5989632004 | Grafana Labs | Senior Software Engineer - Grafana Databases, Managed Services / Ireland / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5989629004 | Grafana Labs | Senior Software Engineer - Grafana Databases, Managed Services / Spain / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5989631004 | Grafana Labs | Senior Software Engineer - Grafana Databases, Managed Services / UK / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5979016004 | Grafana Labs | Senior Software Engineer - Observability Real User Monitoring (RUM) / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5979012004 | Grafana Labs | Senior Software Engineer - Observability Real User Monitoring (RUM) / US / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5806327004 | Grafana Labs | Staff AI Engineer / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5839189004 | Grafana Labs | Staff AI Engineer / US / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5799745004 | Grafana Labs | Staff Backend Engineer - Adaptive Telemetry, Databases / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5799744004 | Grafana Labs | Staff Backend Engineer - Adaptive Telemetry, Databases / USA / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5985793004 | Grafana Labs | Staff Backend Engineer - Application Core Services, Stacks / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5968728004 | Grafana Labs | Staff Backend Engineer - Application Core Services, Stacks / USA / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5982443004 | Grafana Labs | Staff Backend Engineer - Databases Tempo / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5982444004 | Grafana Labs | Staff Backend Engineer - Databases Tempo / US / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5988483004 | Grafana Labs | Staff Backend Engineer - Grafana App Platform / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5988484004 | Grafana Labs | Staff Backend Engineer - Grafana App Platform / US / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6007413004 | Grafana Labs | Staff Backend Engineer - Grafana Enterprise / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004 | Grafana Labs | Staff Backend Engineer - Grafana Enterprise / US / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5978590004 | Grafana Labs | Staff Backend Engineer - Session Replay / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5978589004 | Grafana Labs | Staff Backend Engineer - Session Replay / USA / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6011797004 | Grafana Labs | Staff Software Engineer / Canada /Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6013355004 | Grafana Labs | Staff Software Engineer - Platform, SysEng / Canada / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6013354004 | Grafana Labs | Staff Software Engineer - Platform, SysEng / USA / Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5735539004 | Grafana Labs | Staff Software Engineer / United States / Remote
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4707649005 | Tailscale | Backend Engineer, Identity
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4648921005 | Tailscale | Security Software Engineer
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4703138005 | Tailscale | Software Engineer, Networking (Dataplane)
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4706938005 | Tailscale | Software Engineer, Networking (Features)
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4700272005 | Tailscale | Software Engineer, Strategic Projects
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5132850008 | Honeycomb | Senior Software Engineer II - App Observability Team
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003 | LaunchDarkly | Backend Engineer, Flag Delivery
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003 | LaunchDarkly | Full Stack Engineer, AgentControl
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003 | LaunchDarkly | Full Stack Engineer, Experimentation
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003 | LaunchDarkly | Full Stack Engineer, Foundation
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003 | LaunchDarkly | Full Stack Engineer, Observability
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8442397002 | Airtable | Software Engineer, Compute (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400373002 | Airtable | Software Engineer, Infrastructure (4-8 YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400388002 | Airtable | Software Engineer, Infrastructure (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397618002 | Airtable | Software Engineer, Product Backend (8+ YOE)
+- [ ] https://cribl.io/job-detail/?gh_jid=6010984004 | Cribl | Senior Software Engineer
+- [ ] https://cribl.io/job-detail/?gh_jid=5848459004 | Cribl | Senior Software Engineer, Infrastructure
+- [ ] https://cribl.io/job-detail/?gh_jid=5844014004 | Cribl | Software Engineer, Core Platform
+- [ ] https://cribl.io/job-detail/?gh_jid=5979543004 | Cribl | Sr Machine Learning Engineer, AI Research
+- [ ] https://cribl.io/job-detail/?gh_jid=6092732004 | Cribl | Sr Software Engineer, Storage
+- [ ] https://cribl.io/job-detail/?gh_jid=5971707004 | Cribl | Staff Software Engineer, Core Platform
+- [ ] https://cribl.io/job-detail/?gh_jid=5992317004 | Cribl | Staff Software Engineer, Cribl AI
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009938009 | PlanetScale | Software Engineer - Information Security
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4107018009 | PlanetScale | Software Engineer - Insights
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4280570009 | PlanetScale | Software Engineer - Neki Orchestration
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4251150009 | PlanetScale | Software Engineer - PlanetScale Postgres
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009746009 | PlanetScale | Software Engineer - PlanetScale Vitess
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4036240009 | PlanetScale | Software Engineer - Platform
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009936009 | PlanetScale | Software Engineer - Sharded Postgres (Neki)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8481929002 | GitLab | Backend Engineer, Analytics Instrumentation (Golang)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8537853002 | GitLab | Distinguished Engineer, Agentic SDLC & Non‑Linear Productivity
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8497078002 | GitLab | Field Strategist, Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8522408002 | GitLab | Forward Deployed Engineer - Germany
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8524783002 | GitLab | Forward Deployed Engineer - META
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8522265002 | GitLab | Forward Deployed Engineer - UK
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8497793002 | GitLab | Intermediate Backend Engineer (C), Tenant Scale: Git
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8324132002 | GitLab | Senior Backend Engineer, Gitlab Delivery: Runway (Platform Engineering)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8463925002 | GitLab | Senior Backend Engineer, Gitlab Delivery: Zero Downtime Upgrades
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8488966002 | GitLab | Senior Backend Engineer(Go), Continuous Delivery
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8432221002 | GitLab | Senior Backend Engineer (RoR/Go), SSCS: Pipeline Security
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8480580002 | GitLab | Senior Backend Engineer, SSCS: Supply Chain
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8463922002 | GitLab | Staff Backend Engineer, Gitlab Delivery: Upgrades
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8488961002 | GitLab | Staff Backend Engineer (Go), Continuous Delivery
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8480559002 | GitLab | Staff Backend Engineer, Software Supply Chain Security
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8480531002 | GitLab | Staff Backend Engineer, SSCS: AI Governance
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8381613002 | Calendly | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8464846002 | Calendly | Senior Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8563197002 | Calendly | Senior Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/carta/jobs/7652589003 | Carta | Senior Software Engineer II
+- [ ] https://job-boards.greenhouse.io/carta/jobs/7713882003 | Carta | Senior Software Engineer II, Developer Experience
+- [ ] https://job-boards.greenhouse.io/carta/jobs/7661772003 | Carta | Staff Software Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6008745004 | Hightouch | Forward Deployed Creative Strategist
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4620430004 | Hightouch | Full Stack Product Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983891004 | Hightouch | Software Engineer, Control Plane
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983811004 | Hightouch | Software Engineer, Customer Studio Backend
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4782632004 | Hightouch | Software Engineer, Distributed Systems
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6004706004 | Hightouch | Software Engineer, Native Delivery
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983863004 | Hightouch | Software Engineer, Streaming Systems
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7931506 | Gusto | Benefits Enrollment Specialist
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7991703 | Gusto | Benefit Services Senior Leader - Group Fulfillment
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7027020 | Gusto | Principal Software Engineer - Pay Group Engineering
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7654934 | Gusto | Senior Staff Software Engineer, Money Group
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7942791 | Gusto | Senior Staff Software Engineer - Pricing and Packaging
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7307124 | Gusto | Sr. Staff AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7947684 | Gusto | Staff Software Engineer, AI Developer Tools
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7760341 | Gusto | Staff Software Engineer, Core AI Platforms
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/8008696 | Gusto | Staff Software Engineer, Core Products
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7413644 | Gusto | Staff Software Engineer, Database Infrastructure
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7947658 | Gusto | Staff Software Engineer, Developer Productivity Async
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7985867 | Gusto | Staff Software Engineer, Growth (Orchestration Platform)
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7673999 | Gusto | Staff Software Engineer, Growth (Revenue Enablement)
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7822587 | Gusto | Staff Software Engineer, Payments / Risk
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7863130 | Gusto | Staff Software Engineer, Platform Orchestration
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7943169 | Gusto | Staff Software Engineer, Pricing and Packaging Engineering
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7590298 | Gusto | Staff Software Engineer, Security & AI Platform
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5520964004 | Mercury | Senior Backend Engineer - Product
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5493086004 | Mercury | Senior Full-Stack Engineer
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5850044004 | Mercury | Senior Software Engineer - AI Engineering
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5990652004 | Mercury | Senior Software Engineer - Investments
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5267749004 | Mercury | Software Engineer - Product
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5847987004 | Mercury | Staff Software Engineer - Fraud
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7895468 | Reddit | Fullstack Software Engineer, Notifications Lifecycle
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8014436 | Reddit | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6960831 | Reddit | Senior Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8018517 | Reddit | Senior Machine Learning Engineer, Ads Foundational Representations
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7891887 | Reddit | Senior Machine Learning Engineer, GenAI Security
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6909091 | Reddit | Senior Software Engineer, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7902277 | Reddit | Senior Software Engineer, Compute Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8022448 | Reddit | Senior Software Engineer, Core Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7309137 | Reddit | Senior Software Engineer, GraphQL
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8024892 | Reddit | Senior Software Engineer, Presence
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7772274 | Reddit | Senior Staff Machine Learning Engineer, GenAI Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7847148 | Reddit | Senior Staff Machine Learning Engineer, ML Understanding
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7979933 | Reddit | Senior Staff Machine Learning Engineer, Notifications
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7833622 | Reddit | Senior Staff ML Engineer, Search & Recommendation
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8013591 | Reddit | Software Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6512458 | Reddit | Software Engineer, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7997866 | Reddit | Software Engineer - Data Movement Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8011428 | Reddit | Staff Backend Engineer, Safety
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7851761 | Reddit | Staff Machine Learning Engineer, Ads Content Understanding
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7890096 | Reddit | Staff Machine Learning Engineer, Ads Measurement Modeling
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7747244 | Reddit | Staff Machine Learning Engineer, Consumer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8018532 | Reddit | Staff Machine Learning Engineer, ML Efficiency
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7992035 | Reddit | Staff Machine Learning Engineer, Notifications Relevance
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7875645 | Reddit | Staff Software Engineer, Community Builders
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8004045 | Reddit | Staff Software Engineer - Content Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7895156 | Reddit | Staff Software Engineer, Media Experiences
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7961154 | Reddit | Staff Software Engineer, Onboarding
+- [ ] https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004 | Figma | Data Engineer
+- [ ] https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004 | Figma | Software Engineer, AI Product
+- [ ] https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004 | Figma | Software Engineer, AI Product (London, United Kingdom)
+- [ ] https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004 | Figma | Software Engineer, C++
+- [ ] https://boards.greenhouse.io/figma/jobs/5759501004?gh_jid=5759501004 | Figma | Software Engineer, Code Platform
+- [ ] https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004 | Figma | Software Engineer, Data Infrastructure
+- [ ] https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004 | Figma | Software Engineer, Developer Experience
+- [ ] https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004 | Figma | Software Engineer, Distributed Systems
+- [ ] https://boards.greenhouse.io/figma/jobs/6073106004?gh_jid=6073106004 | Figma | Software Engineer - Figma Weave (Tel Aviv, Israel)
+- [ ] https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004 | Figma | Software Engineer, Full Stack
+- [ ] https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004 | Figma | Software Engineer, Graphics & Media
+- [ ] https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004 | Figma | Software Engineer, Growth & Monetization
+- [ ] https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004 | Figma | Software Engineer, Machine Learning
+- [ ] https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004 | Figma | Software Engineer, Production Engineering
+- [ ] https://boards.greenhouse.io/figma/jobs/5781928004?gh_jid=5781928004 | Figma | Software Engineer, Production Engineering (London, United Kingdom)
+- [ ] https://boards.greenhouse.io/figma/jobs/5802956004?gh_jid=5802956004 | Figma | Support AI Engineer
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/7733608003 | Lightning AI | AI Platform Support Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/7746583003 | Lightning AI | AI Platform Support Engineer (US)
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/5740846003 | Lightning AI | Backend Engineer
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/4652064003 | Lightning AI | Fullstack Engineer
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/7718708003 | Lightning AI | Infrastructure Engineer (Storage)
+- [ ] https://jobs.ashbyhq.com/duck-duck-go/53022b02-da3d-4fda-8273-c897d27ed50d | DuckDuckGo | Senior Backend Engineer
+- [ ] https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product
+- [ ] https://jobs.lever.co/mistral/98e6a2ea-7049-4c8d-88b7-c9d824eea6f1 | Mistral AI | Applied AI Engineer, CyberSecurity
+- [ ] https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack Software Engineer - EMEA
+- [ ] https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c | Mistral AI | Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA
+- [ ] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping
+- [ ] https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761 | Mistral AI | Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore
+- [ ] https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e | Mistral AI | Applied AI, Senior/Staff Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/5993e633-2c23-4054-801e-1da4c2adadc5 | Mistral AI | Applied AI, Senior/Staff Forward Deployed Machine Learning Engineer - Singapore
+- [ ] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer
+- [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - EMEA
+- [ ] https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Montreal
+- [ ] https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Morocco
+- [ ] https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto
+- [ ] https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer- Singapore
+- [ ] https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA
+- [ ] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris
+- [ ] https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi
+- [ ] https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA
+- [ ] https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal
+- [ ] https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/49aa2bb7-5504-46d3-bc40-e1bcdb12cee2 | Mistral AI | Applied AI, Use-case, Software Engineer (Harness)
+- [ ] https://jobs.lever.co/mistral/64c9a48e-6d23-4090-bf0f-5a979830fbaf | Mistral AI | Mistral Cloud - Software Engineer, Backend (Golang)
+- [ ] https://jobs.lever.co/mistral/ef4c26fc-3fdb-4dd2-a64e-95264ee769dd | Mistral AI | Open-Source Software, Machine Learning Engineer
+- [ ] https://jobs.lever.co/mistral/df0d75c1-97ef-4e50-85e6-0ffd8f5b7d7c | Mistral AI | Research Software Engineer - Paris/London
+- [ ] https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366 | Mistral AI | Software Engineer, Backend (New-York)
+- [ ] https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823 | Mistral AI | Software Engineer, Backend (Paris)
+- [ ] https://jobs.lever.co/mistral/126f59ee-2ad3-4dea-ab16-337c84fec561 | Mistral AI | Software Engineer, Backend (Warsaw)
+- [ ] https://jobs.lever.co/mistral/db67d7a2-bcec-4151-9b3a-8212ddabf419 | Mistral AI | Software Engineer, Data
+- [ ] https://jobs.lever.co/mistral/31364497-4081-454a-b50c-12d15daf6876 | Mistral AI | Software Engineer, Deployment Infrastructure
+- [ ] https://jobs.lever.co/mistral/c9e16eb0-0cb9-423d-8495-a96d10782622 | Mistral AI | Software Engineer, DevEx
+- [ ] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents
+- [ ] https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f | Mistral AI | Software Engineer, New Grad
+
 ## Processed
