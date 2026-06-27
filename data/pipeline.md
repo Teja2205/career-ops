@@ -1487,3 +1487,9 @@
 - [ ] https://jobs.ashbyhq.com/vendelux/e68b278e-9133-4811-a472-5bf0d700eec3 | Vendelux | Senior AI Engineer
 - [ ] https://jobs.lever.co/thinkahead/29dace68-0327-4689-a9d6-fad54472b185 | AHEAD | Full Stack Engineer
 - [ ] https://www.workatastartup.com/jobs/84710 | MixRank | Full-Stack Developer - Remote
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7974975 | Headspace | Senior Software Engineer, Backend (Remote US)
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5283186008 | Impiricus | Lead Software Engineer (Full-stack, Remote USA)
+- [ ] https://jobs.ashbyhq.com/beaconai/1ad0e359-7a0e-45fe-bc8d-31c8b34f2996 | Beacon AI | Software Engineer, Backend
+- [ ] https://jobs.ashbyhq.com/apify/626283b7-23fd-4988-90e8-3f08c307c07a | Apify | Senior Fullstack Engineer (React/TypeScript)
+- [ ] https://jobs.ashbyhq.com/rula/a523f461-908f-4527-8611-a72e5544df09 | Rula | Sr. Software Engineer - Partnerships (Remote US)
+- [ ] https://jobs.lever.co/Anovium/c55c1aa9-2bb0-4447-bd40-cdc616adb9c2 | Anovium | Senior Full Stack Node/Backend Engineer (Remote)
