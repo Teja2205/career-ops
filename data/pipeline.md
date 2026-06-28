@@ -1493,3 +1493,10 @@
 - [ ] https://jobs.ashbyhq.com/apify/626283b7-23fd-4988-90e8-3f08c307c07a | Apify | Senior Fullstack Engineer (React/TypeScript)
 - [ ] https://jobs.ashbyhq.com/rula/a523f461-908f-4527-8611-a72e5544df09 | Rula | Sr. Software Engineer - Partnerships (Remote US)
 - [ ] https://jobs.lever.co/Anovium/c55c1aa9-2bb0-4447-bd40-cdc616adb9c2 | Anovium | Senior Full Stack Node/Backend Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/trivelta/jobs/4031259009 | Trivelta | Senior Frontend Software Engineer - Typescript/React/NextJS (Remote)
+- [ ] https://job-boards.greenhouse.io/avochato/jobs/4500844003 | Avochato | Frontend Developer (React/Typescript) - Remote US
+- [ ] https://job-boards.greenhouse.io/catenaclearing/jobs/5076182007 | Catena Clearing | Frontend Engineer - Remote-first
+- [ ] https://jobs.ashbyhq.com/scale%20army%20careers/f4b75d38-0337-4b00-a59d-9ebd174c16e2 | Scale Army | Senior Fullstack Engineer - Remote
+- [ ] https://jobs.ashbyhq.com/neural-earth/660e72db-0a18-4b4a-b696-4311226d3cfa | Neural Earth | Full Stack Engineer (4mo Contract) - Remote
+- [ ] https://jobs.ashbyhq.com/ndeavour/10540e09-f66a-4deb-9ec8-5be198a63f28 | NDEAVOUR CONSULTING | Front-End Developer (React/ReactNative) - Remote
+- [ ] https://jobs.lever.co/jobgether/93a16036-a989-441f-9994-588419c6873e | Jobgether | Senior Full Stack Engineer (Backend Focus) - Remote
