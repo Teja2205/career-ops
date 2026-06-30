@@ -1500,3 +1500,4 @@
 - [ ] https://jobs.ashbyhq.com/neural-earth/660e72db-0a18-4b4a-b696-4311226d3cfa | Neural Earth | Full Stack Engineer (4mo Contract) - Remote
 - [ ] https://jobs.ashbyhq.com/ndeavour/10540e09-f66a-4deb-9ec8-5be198a63f28 | NDEAVOUR CONSULTING | Front-End Developer (React/ReactNative) - Remote
 - [ ] https://jobs.lever.co/jobgether/93a16036-a989-441f-9994-588419c6873e | Jobgether | Senior Full Stack Engineer (Backend Focus) - Remote
+- [ ] https://jobs.ashbyhq.com/abridge/897709b2-e03d-4574-8611-5cfd669adde9 | Abridge | Software Engineer, GenAI
