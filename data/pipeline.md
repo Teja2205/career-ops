@@ -1501,3 +1501,8 @@
 - [ ] https://jobs.ashbyhq.com/ndeavour/10540e09-f66a-4deb-9ec8-5be198a63f28 | NDEAVOUR CONSULTING | Front-End Developer (React/ReactNative) - Remote
 - [ ] https://jobs.lever.co/jobgether/93a16036-a989-441f-9994-588419c6873e | Jobgether | Senior Full Stack Engineer (Backend Focus) - Remote
 - [ ] https://jobs.ashbyhq.com/abridge/897709b2-e03d-4574-8611-5cfd669adde9 | Abridge | Software Engineer, GenAI
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5177057007 | Clara | Senior Fullstack Engineer
+- [ ] https://job-boards.greenhouse.io/formativgroup/jobs/4300123009 | FormativGroup | Senior Front-End Engineer (React)
+- [ ] https://jobs.ashbyhq.com/rula/f2424794-c819-4f53-a8af-83322e617acb | Rula | Sr. Staff AI Engineer (Remote)
+- [ ] https://jobs.lever.co/hmbl-tech/883903da-e1a6-4f08-8b39-831746a6f2c8 | HMBL | Sr Full Stack Engineer (Remote)
+- [ ] https://www.workatastartup.com/jobs/76236 | Stardex | Full Stack Engineer
