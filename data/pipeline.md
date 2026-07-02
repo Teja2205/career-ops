@@ -1506,3 +1506,7 @@
 - [ ] https://jobs.ashbyhq.com/rula/f2424794-c819-4f53-a8af-83322e617acb | Rula | Sr. Staff AI Engineer (Remote)
 - [ ] https://jobs.lever.co/hmbl-tech/883903da-e1a6-4f08-8b39-831746a6f2c8 | HMBL | Sr Full Stack Engineer (Remote)
 - [ ] https://www.workatastartup.com/jobs/76236 | Stardex | Full Stack Engineer
+
+- [ ] https://jobs.ashbyhq.com/acorns/cf23e51e-7570-418a-bf8e-cca720efd824 | Acorns | Senior Backend Engineer, AI Team
+- [ ] https://jobs.ashbyhq.com/SigNoz/f25ef5a6-c53f-4f30-9923-1d0cf52118b5 | SigNoz | Staff Software Engineer - Frontend
+- [ ] https://jobs.ashbyhq.com/fiddler-ai/dd1d6bdd-739b-48c6-bda3-8b87e0b0bc77 | Fiddler AI | Staff Backend Engineer (Hybrid)
